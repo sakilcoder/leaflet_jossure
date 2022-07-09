@@ -44,7 +44,7 @@ var marker_geojson = { "type": "FeatureCollection" }
 
 fetchText(csvUrl).then(text => {
     let pois = d3.csvParse(text);
-    console.log(pois);
+    // console.log(pois);
     let features = [];
 
     for (i = 0; i < pois.length; i++) {
@@ -53,8 +53,6 @@ fetchText(csvUrl).then(text => {
             continue;
 
         let latlng = pois[i].coordinates.split(',')
-
-        console.log(latlng[1].trim());
 
         let feature = {
             "type": "Feature",
@@ -112,6 +110,8 @@ let polylineMeasure = L.control.polylineMeasure ({position:'topleft', unit:'kilo
 polylineMeasure.addTo (map);
 
 document.getElementsByClassName( 'leaflet-control-attribution' )[0].style.display = 'none';
+
+L.Control.geocoder().addTo(map);
 
 // var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 // var crownHill = L.marker([39.75, -105.09]).bindPopup('This is Crown Hill Park.');
