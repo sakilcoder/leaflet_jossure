@@ -8,7 +8,7 @@ body {
     overflow: hidden;
 }
 body {
-    background-color: #ccf8d1!important;
+    /* background-color: #ccf8d1!important; */
 }
 #map {
     position: absolute;

@@ -25,7 +25,7 @@ var markers = L.layerGroup();
 
 var map = L.map('map', {
     center: [49.59140881901119, -98.19305419921876],
-    zoom: 10,
+    zoom: 9,
     layers: [googleTerrain, aoiLayer, markers] // default checked layers
 });
 
@@ -90,8 +90,8 @@ var overlays = {
 var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 
 L.easyButton('fa-home fa-lg', function () {
-    // map.setView([20.204919296905683, -87.47374525771015], 17);
-    map.fitBounds(aoiLayer.getBounds());
+    map.setView([49.59140881901119, -98.19305419921876], 9);
+    // map.fitBounds(aoiLayer.getBounds());
 }).addTo(map);
 
 let infoView = 1;
