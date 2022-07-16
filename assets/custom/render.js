@@ -1,19 +1,39 @@
 function onEachAoi(feature, layer) {
 
+    // var popup = L.popup();
+    // let str_popup = '<h5 class="text-center" style="font-weight: bold">' + feature.properties.MUNI_NO + ', ' + feature.properties.MUNI_NAME+ '</h5>';
+    // str_popup += '<h5 class="text-center">'+ feature.properties.MUNI_LIST_NAME_WITH_TYPE +'</h5>';
+
+    // popup.setContent(str_popup);
+    // layer.bindPopup(popup, popupOptions);
+
+
     layer.on('click', function (e) {
         console.log(e);
     });
 
     layer.on('mouseover', function (e) {
+        // var popup = e.target.getPopup();
+        // popup.setLatLng(e.latlng).openOn(map);
+
         this.setStyle({
-            'fillColor': '#a3bf82'
+            'weight': 2,
+            'color': "#fff",
+            'opacity': 1,
+            'fillColor': '#dd1c77',
+            'fillOpacity': 0
         });
     });
 
     layer.on('mouseout', function (e) {
+        // e.target.closePopup();
         // console.log('out-aoi');
         this.setStyle({
-            'fillColor': '#719b6b'
+            'weight': 1,
+            'color': "#fff",
+            'opacity': 1,
+            'fillColor': '#6baed6',
+            'fillOpacity': 1
         });
     });
 

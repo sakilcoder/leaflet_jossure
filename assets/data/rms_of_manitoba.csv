@@ -1,356 +1,402 @@
-SLNo,muin_city,attraction_site,coordinates,address,description
-1,West St. Paul,Moore Park,"50.01069346748644, -97.14490263127486","421 Moore Rd, West Saint Paul, MB R4A 7A4",Playground
-2,West St. Paul,Winnipeg Revolver & Pistol Association,"50.037973796781536, -97.08796946620622","1201 Miller Rd, Manitoba R4A 1B7",Shooting Range
-3,Headingley,Splash pads,"49.87768559317994, -97.40391539416858","5353 Portage Ave, Headingley, MB R4H 1J9",Playground
-4,Headingley,Thunder Rapids Amusement Park,"49.87381528602016, -97.38712415127536","5058 Portage Ave, Headingley, MB R4H 1E1",Amusement Park
-5,Headingley,John Blumberg Soccer Fields,"49.87552088287172, -97.3571523814145","3400 Portage Ave, Headingley, MB R4H 1C6",Soccer Fields
-6,Headingley,John Blumberg Softball Complex,"49.873988291082355, -97.3567906577854","4540 Portage Ave, Headingley, MB R4H 1C6",Baseball Diamonds
-7,Rosser,Little Mountain Sportsplex,"49.95628907019149, -97.2559362217362","64-128 Klimpke Rd, Winnipeg, MB R3C 2E6",Sports Complex
-8,Rosser,Little Mountain Park,"49.954703457874125, -97.2517077168499","Farmer Avenue, Stony Mountain, MB R0C 3A0",Park
-9,Rosser,Little Mountain Off-leash,"49.954614561412725, -97.25143774705509","Klimpke Rd, Manitoba R0H 1E0",Dog Park
-10,Rosser,Prairie Dog Central Railway,"49.951779852861065, -97.26998255833801","64099 Prairie Dog Trail, Rosser, MB R0H 1E0",Rail Museum
-11,Rosser,Kiinu Oasis Gaming Centre,"49.99296318403842, -97.31997995203092","Hwy 236 & Hwy 6, Rosser, MB",Casino
-12,Rosser,Bel Acres Golf & Country Club,"50.03610211713805, -97.27922822473609",Manitoba R0C 3A0,Golf Course
-13,Rosser,Six Pines Haunted Attractions & Petting Farm & Wedding/Corporate events Venue,"50.025285182963245, -97.27631482033223","BOX 27 B, RR 2, MB R3C 2E6",Haunted House
-14,St. Francois-Xavier,Marquette Cemetery,"50.05126354562054, -97.84654515869777","MB-26, Saint François Xavier, MB R4L 1B6",Cemetery
-15,St. Francois-Xavier,Cuthbert Grant Park,"49.91488620188719, -97.54524758663196","MB-26 &, McCaughan Rd, Saint François Xavier, MB",Park
-16,Cartier,St. Eustache Arena,"49.973131743529294, -97.78000672529197","10 Allarie St, Saint Eustache, MB R0H 1H0",Arena
-17,Cartier,Beaudry Provincial Park,"49.86121941567935, -97.47740297126109","MB-241, Springstein, MB R0G 2N0",Park
-18,Cartier,Headingley Grand Trunk Trail,"49.85397165035748, -97.47379353433044","Cartier, MB R0G 2N0",Hiking Trail
-19,Cartier,Mann Mennonite Cemetery,"49.84629232112997, -97.77736087199284",Manitoba R0H 0H0,Cemetery
-20,Portage La Prairie,World's Largest Coca Cola Can,"49.97155625943936, -98.33095674715068","2445 Saskatchewan Ave W, Portage la Prairie, MB R1N 3B5",
-21,Portage La Prairie,Abenaki Art Works,"49.98452477535191, -98.28703351730815","730 Midland St N, Portage la Prairie, MB R1N 1T1",
-22,Portage La Prairie,Provista Park,"49.98372716285722, -98.29310411443117","628 3 St NW, Portage la Prairie, MB R1N 2C7",
-23,Portage La Prairie,Simplot Central Park,"49.98035029340009, -98.29367312403443","Portage la Prairie, MB R1N 2A7",
-24,Portage La Prairie,Beaver Stadium,"49.980010359657285, -98.29974039768956","Portage la Prairie, MB",
-25,Portage La Prairie,BDO Centre for the Community,"49.97898096808088, -98.29265982544953","390 1 St NW, Portage la Prairie, MB R1N 1Z3",
-26,Portage La Prairie,Portage La Prairie Armoury,"49.976389129917706, -98.28751307572445","143 2 St NE, Portage la Prairie, MB R1N 1S1",
-27,Portage La Prairie,Portage la Prairie Model Railroad Club,"49.974569044389725, -98.28585336481068","251 3 St NE, Portage la Prairie, MB R1N 0H8",
-28,Portage La Prairie,Prairie City Cinema,"49.97382115639718, -98.28610963973982","225 Prince Ave, Portage la Prairie, MB R1N 3K3",
-29,Portage La Prairie,Prairie Fusion Arts & Entertainment,"49.97382319769572, -98.28806681929916","11 2 St NE, Portage la Prairie, MB R1N 1R8",
-30,Portage La Prairie,William Glesby Centre,"49.9736149132596, -98.28788373762528","11 2 St NE, Portage la Prairie, MB R1N 1R8",
-31,Portage La Prairie,Portage Golf Club,"49.96786855691941, -98.29970493760408","1 Island Park, Portage la Prairie, MB R1N 3C2",
-32,Portage La Prairie,Portage Industrial Exhibition Campground,"49.965849467534, -98.29986924816944","Island Park, Portage la Prairie, MB R1N 3B5",
-33,Portage La Prairie,Stride Place,"49.96557651193856, -98.2941728200832","245 Royal Rd S, Portage la Prairie, MB R1N 3C5",
-34,Portage La Prairie,Splash Island Water Park,"49.965914551696244, -98.29152039922036","260 Royal Rd S, Portage la Prairie, MB R1N 1T3",
-35,Portage La Prairie,Island Park Playground,"49.96541893034211, -98.28983653389598","38 George Hill Dr, Portage la Prairie, MB R1N 3A3",
-36,Portage La Prairie,Island Park and Crescent Lake,"49.96467459353729, -98.28937548008251","441 Crescent Rd E, Portage la Prairie, MB",
-37,Portage La Prairie,Portage Rotary Island Park Disc Golf,"49.96277787337595, -98.28792662772732","38 George Hill Dr, Portage la Prairie, MB",
-38,Portage La Prairie,Rotary Republic of Manitobah Park,"49.96230819592409, -98.27521099937432","Cambridge St, Portage la Prairie, MB R1N 3V6",
-39,Portage La Prairie,Keeshkeemaquah Conference & Gaming Centre,"49.961191779881446, -98.32296427083354","5008 Crescent Rd W, Portage la Prairie, MB R1N 0X7",
-40,Portage La Prairie,Pine Crescent in Portage,"49.95585429376767, -98.31855507757302","6 Pine Cres, Portage la Prairie, MB R1N 1A8",
-41,Portage La Prairie,Happy Eagle Park,"49.94956056443738, -98.34253852516261","Dakota Dr, Dakota Tipi, MB R1N 3X6",
-42,Portage La Prairie,Fort La Reine Museum,"49.97394944236341, -98.24157306050213","2652 E Saskatchewan Ave, Portage la Prairie, MB R1N 3Z9",
-43,Portage La Prairie,Ofty's Riverside Campground,"50.15066396490481, -98.54949097130478","77162 242 Pr, Hwy 242, Westbourne, MB R0H 1P0",
-44,Portage La Prairie,Delta Beach Campground,"50.184464762282346, -98.34270239400466","84 Hackberry Ave W, Delta Beach, MB R0H 0S0",
-45,Portage La Prairie,Public beach,"50.18538518545909, -98.34405220478446",Manitoba R0H 0S0,
-46,Portage La Prairie,Miller's Camping Resort,"49.9741911365859, -98.13615554123804","Transcanada Hwy, Portage la Prairie, MB R1N 3C3",
-47,Portage La Prairie,Creekside Camping & RV Park,"49.96816797293977, -98.09317054989019","Trans-Canada Hwy, Oakville, MB R0H 0Y0",
-48,Portage La Prairie,Oakville Arena,"49.93044427708989, -97.99817173500713","475 PTH 331, Oakville, MB R0H 0Y0",
-49,Portage La Prairie,Southport Golf Club,"49.90008857949771, -98.25005133297108","2655 Musketeer Rd E, Southport, MB R0H 1N1",
-50,Norfolk-Treherne,Treherne Aquatic Centre,"49.62551938195046, -98.70043394139236","Treherne, MB R0G 2V0",
-51,Norfolk-Treherne,Cottonwood Campground,"49.62734179326345, -98.70093364438242","45 Vanzile St, Treherne, MB R0G 2V0",
-52,Norfolk-Treherne,Treherne Arena,"49.62799853026036, -98.70072469519661","224 Vanzile St, Treherne, MB R0G 2V0",
-53,Norfolk-Treherne,Treherne Museum,"49.6289162355409, -98.70055535740498","183 Vanzile St, Treherne, MB R0G 2V0",
-54,Norfolk-Treherne,Second Chance Car Museum,"49.629423807226715, -98.70144648139794","Railway avenue and, Vanzile St, Treherne, MB R0G 2V0",
-55,Norfolk-Treherne,Treherne Bowling & Billards,"49.63007223643747, -98.69901166477801","216 Railway Ave, Treherne, MB R0G 2V0",
-56,Norfolk-Treherne,Boyne Valley trail,,"Treherne, MB R0G 2V0",
-57,Norfolk-Treherne,Glass Bottle House,"49.630697736536135, -98.69631193309567","Treherne, MB, R0G 2V0",
-58,Norfolk-Treherne,Delahunt Golf & Country Club,"49.64176927631946, -98.63986258250739","Treherne, MB R0G 2V0",
-59,Lorne,Bob Sigvaldason Nature Preserve,"49.45734488402737, -99.22652143212419","Argyle, MB R0K 0B0",
-60,Lorne,SLFN Splash Park,"49.38703364101235, -98.88422120996863","Unnamed Road, Swan Lake, MB R0G 2S0",
-61,Lorne,King Korn Maze,"49.51873739314393, -98.55265548118966","Rd. 35 N, NOTRE DAME, MB R0G 1M0",
-62,Lorne,Notre Dame Arena,"49.53129537514414, -98.55338100356603","55 NOTRE DAME AVE W, Notre Dame de Lourdes, MB R0G 1M0",
-63,Lorne,Musee Des Pionniers,"49.530854603064405, -98.55694534769741","55 Rue Rogers, Notre Dame de Lourdes, MB R0G 1M0",
-64,Lorne,Ecole St. Adelard N 912,"49.50336811872729, -98.6188167093013","Road 34 North &, Rd 51 W, MB R0G 1M0",
-65,Lorne,Swan Lake,"49.36700952988533, -98.89857431105882",,
-66,Lorne,Lions Legion Park,"49.41102865981787, -98.79297215611524","8 Lorne Ave, Swan Lake, MB R0G 2S0",
-67,Lorne,Swan Lake fountain Monument,"49.41146919101805, -98.7924505888836","12 Lorne Ave, Swan Lake, MB R0G 2S0",
-68,Lorne,Swan Lake Arena,"49.40898621222166, -98.79347164855263","6 Centennial Ave, Swan Lake, MB R0G 2S0",
-69,Lorne,L'église catholique de Saint-Lupicin (déconsacrée),"49.45886222186776, -98.47815970149236","Rd 31 N, Saint Lupicin, MB",
-70,Lorne,Lake 7 Resort,"49.46329128317408, -98.94027430978454","Unnamed Road, 0G0, Bruxelles, MB",
-71,Winnipeg,The Forks,"49.88954784669065, -97.12999855348866","1 Forks Market Rd, Winnipeg MB R3C 4L9",Tourist Area
-72,Winnipeg,Canadian Museum for Human Rights,"49.890680199767445, -97.13194029862446","85 Israel Asper Way, Winnipeg, MB R3C 0L5",Museum
-73,Winnipeg,The Manitoba Museum,"49.900041690853506, -97.13643963338059","190 Rupert Ave, Winnipeg, MB R3B 0N2",Museum
-74,Winnipeg,Assiniboine Park and Zoo,"49.86838036657657, -97.24060957040702","2595 Roblin Blvd, Winnipeg, MB R3R 2N7",Park & Zoo
-75,Winnipeg,Legislative Building,"49.8844898065351, -97.14639199208521","450 Broadway, Winnipeg, MB R3C 0V8",Goverment Building
-76,Winnipeg,Experience the Festival du Voyageur,"49.89297954852126, -97.1196749111194","233 Provencher Blvd, Winnipeg, MB R2H 0G4",Festival
-77,Winnipeg,Winnipeg Art Gallery,"49.88944133395789, -97.15058908883694","300 Memorial Blvd, Winnipeg, MB R3C 1V1",Art Museum
-78,Winnipeg,Fort Whyte Alive,"49.82051365760505, -97.22491421266719","1961 McCreary Rd, Winnipeg, MB R3P 2K9",Nature Park
-79,Winnipeg,Royal Canadian Mint,"49.85270363721791, -97.05417905840153","520 Lagimodiere Blvd, Winnipeg, MB R2J 3E7",Mint
-80,Winnipeg,St. Boniface Cathedral,"49.8894017376995, -97.12138406372918","180 Av. de la Cathedrale, Winnipeg, MB R2H 0H7",Cathedral
-81,Winnipeg,Manitoba Children's Museum,"49.88778798158205, -97.1286116921829","2 Forks Market Rd, Winnipeg, MB R3C 4X1",Children's Museum
-82,Winnipeg,Manitoba Centennial Centre,"49.8998646265283, -97.13694436057386","555 Main St Suite 1000, Winnipeg, MB R3B 1C3",Art Center
-83,Winnipeg,Riel House National Historic Site,"49.81934695262319, -97.13615280982981","330 River Rd, Winnipeg, MB R2M 3Z8",Historical Landmark
-84,Winnipeg,Kildonan Park,"49.94671429972833, -97.10258727427136","2015 Main St, Winnipeg, MB R2V 2B9",Park
-85,Winnipeg,Living Prairie Museum & Interpretive Centre,"49.88789186654521, -97.27251735737725","Ness Ave, 2795 Ness Ave, Winnipeg, MB R3J 3S4",Nature Preserve
-86,Winnipeg,Royal Aviation Museum of Western Canada,"49.90121955560342, -97.22527017908969","2088 Wellington Ave, Winnipeg, MB R3H 1C1",Museum
-87,Winnipeg,Air Command Headquarters Museum,"49.88996017049454, -97.23660252515992","186 Air Force Way, Winnipeg, MB",Museum
-88,Winnipeg,Scotiabank Theatre Winnipeg,"49.887607773151, -97.20003341565287","817 St James St, Winnipeg, MB R3G 3L3",Theater
-89,Winnipeg,Royal Winnipeg Rifles Museum & Archives,"49.890998269089174, -97.17943374410078","969 St Matthews Ave, Winnipeg, MB R3G 0J7",Museum
-90,Winnipeg,Fort Garry Horse Museum & Archives,"49.92772808339803, -97.1399861728094","551 Machray Ave, Winnipeg, MB R2W 1A8",Museum
-91,Winnipeg,Canada Life Centre,"49.89266892372678, -97.14376689303242","223 Carlton St, Winnipeg, MB R3C 5S6",Arena
-92,Winnipeg,Centennial Concert Hall,"49.89944249294436, -97.13717541119703","555 Main Street, Winnipeg, MB R3B 1C3",Concert Hall
-93,Winnipeg,Maison du Gouverneur / Governor's House,"49.899193592912354, -97.12559112775703","Rue St Joseph, Winnipeg, MB R2H 0A5",Historical Landmark
-94,Louise,Crystal City Printing Museum,"49.14522391166347, -98.95058635316043","218 Broadway St S, Crystal City, MB R0K 0N0",
-95,Louise,Star Mound Museum,"49.059716149227455, -98.72488558304597","Rd 4 N, MB, R0G 2K0",
-96,Louise,Lessons from the Land Trail ,"49.13698147278266, -99.0397235302831","Clearwater, MB",
-97,Louise,Crystal Creek Skating Trail,"49.142740582496494, -98.9556389403411","124 Crystal Ave, Crystal City, MB R0K 0N0",
-98,Louise,Goudney Reservoir ,"49.207916471961994, -98.94850914123658","Pilot Mound, MB",
-99,Louise,Thomas Greenway Cemetery ,"49.15347905470194, -98.95336219946944","Crystal City, MB",
-100,Louise,Harvest Moon Festival ,,"Clearwater, MB",
-101,Louise,Moundfest ,,"Pilot Mound, MB",
-102,Louise,The “Old Mound” ,"49.22480643669608, -98.91239379505562","Pilot Mound, MB",
-103,Louise,July 1st Canada Day Baseball Tournament ,,"Clearwater, MB",
-104,Louise,Manitoba WW1 Museum ,"49.23430125498906, -98.7668579609281","Pilot Mound, MB",
-105,Louise,Prairie Hill MX ,"49.248578382014635, -98.94953037348365","Pilot Mound, MB",
-106,Grey,St. Claude Cenotaph,"49.656644320788125, -98.34506888506702","Tache St, Saint Claude, MB R0G 1Z0",
-107,Grey,Manitoba Dairy Museum,"49.6617565189281, -98.34002232618917","3 St, Saint Claude, MB R0G 1Z0",
-108,Grey,St. Claude and Haywood Arena,"49.66217365306918, -98.34029721302228","122 3 St, Saint Claude, MB R0G 1Z0",
-109,Grey,Scotswood Links,"49.679067362852706, -98.01634466000955","24084 MB-2, Elm Creek, MB R0G 0N0",
-110,Grey,Elm Creek Skating Rink,"49.67340344777779, -97.99819141074347","67 Arena Rd, Elm Creek, MB R0G 0N0",
-111,Grey,Elm Creek Curling Rink,"49.67349978172806, -97.99706819173312","71 Arena Rd, Elm Creek, MB R0G 0N0",
-112,Grey,Elm Creek Ball Diamonds,"49.67353110534044, -97.99529561668892","Elm Creek, MB R0G 0N0",
-113,Macdonald,Hide n Seek Winnipeg,"49.81188008717738, -97.23212966718293","305 Fort Whyte Way #100, Oak Bluff, MB R4G 0B1",
-114,Macdonald,Golfzon Winnipeg,"49.80396895746919, -97.2500183740869","54 S Landing Dr, Oak Bluff, MB R4G 0C4",
-115,Macdonald,Heebie Jeebies,"49.79009028693639, -97.25277086069917","Box 70048 Kenaston PO, Winnipeg, MB R3P 0X6",
-116,Macdonald,Oak Bluff Recreation Club,"49.7713222032266, -97.3235798233858","101-123 MacDonald Rd 6 E, Oak Bluff, MB R4G 0B2",
-117,Macdonald,Oak Bluff Recreation Baseball Diamonds,"49.77883107555969, -97.33204138445873","Oak Bluff, MB R0G 1N0",
-118,Macdonald,Whiskey throttle compound,"49.76258584112565, -97.64674770183802",Manitoba R0G 2P0,
-119,Macdonald,Starbuck Sports Centre,"49.77461907730916, -97.62459169549079","60 Arena Blvd, Starbuck, MB R0G 2P0",
-120,Macdonald,Bridges Golf Course,"49.76495550754852, -97.58442329887815","10 River Rd, Starbuck, MB R0G 2P0",
-121,Macdonald,Brunkild Memorial Recreation Centre,"49.591251080073974, -97.57678530820986","10 305 Pr, Brunkild, MB R0G 0E0",
-122,Macdonald,4 lane - Castle in Corn - Corn Maze,"49.60085343377011, -97.33054682560261","Provincial Rd 330, Domain, MB R0G 0M0",
-123,Morris,Manitoba Stampede & Exhibition,"49.34876891816176, -97.36105315502891","350 Main St, Morris, MB R0G 1K0",
-124,Morris,Morris Arena,"49.350638103933925, -97.36130658536499","380 Stampede Grounds, Morris, MB R0G 1K0",
-125,Morris,Morris MultiPlex,"49.35014148817454, -97.3605081525745","380 Stampede Grounds, Morris, MB R0G 1K0",
-126,Morris,Cargill Curling Training Centre,"49.35014148817454, -97.3605081525745","380 Stampede Grounds, Morris, MB R0G 1K0",
-127,Morris,Morris swimming pool,"49.35524048625711, -97.35986376148342","221 Boyne Ave E, Morris, MB R0G 1K0",
-128,Morris,Morris Dog Park,"49.35167645874465, -97.35238185109395","Toronto Ave, Morris, MB R0G 1K0",
-129,Morris,Morris Riverview Golf Course,"49.3646593704041, -97.36155689083256","1 Riverview Drive, Morris, MB R0G 1K0",
-130,Morris,Riverside Centennial Park,"49.41354454278669, -97.41468789543347","1 Riverview Dr, Rosenort, MB R0G 1W0",
-131,Morris,Westfield Park,"49.46013203639564, -97.44228194242696","27 MB-205, Rosenort, MB R0G 1W0",
-132,Morris,Rosenort Arena,"49.460788906048215, -97.4424433554339","71 MB-205, Morris, MB R0G 1K0",
-133,Morris,Rosenort Campground,"49.45506933850043, -97.43603054841881","5 Rose Ln, Rosenort, MB R0G 1W0",
-134,Morris,Rosenort MX,"49.47533401388335, -97.44442300217302","Rr1 box 115, Morris, MB R0G 1K0",
-135,Morris,Lea Bank Equestrian Centre,"49.51641837816203, -97.50865497655298","Box 352, Rosenort, MB R0G 1W0",
-136,Morris,Union Point United Church Historic Site,"49.524234284183805, -97.22769244323597","Lord Selkirk Hwy, Ste. Agathe, MB R0G 1Y0",
-137,Pembina,Pembina Valley Bible Camp & Retreat,"49.020122082391126, -98.27690502645038","MB-201, MB R0G 2T0",
-138,Pembina,Pembina Valley Provincial Park,"49.00857463902149, -98.27395430271392","201 PrRd/Rd. 37 W,Thornhill, MB R0G 2T0",
-139,Pembina,Hy-wire Zipline Adventures,"49.05950732891677, -98.50823333254495","Rd. 4 N, Manitou, MB R0G 1G0",
-140,Pembina,Manitoba Passion Play,"49.24905113268893, -98.67245388143162","Unamed Road, La Rivière, MB, R0G 1A0",
-141,Pembina,Holiday Mountain Resort,"49.23739334296271, -98.69404321624648","12 Later Way, La Rivière, MB R0G 1A0",
-142,Pembina,La Riviere Camp Ground,"49.2382238087998, -98.6869489673521","La Rivière, MB, R0G 1A0",
-143,Pembina,Binney Corner Nature Preserve,"49.2635534451616, -98.59108366886336","Rd 50 W, MB, R0G 1G0",
-144,Pembina,Manitou Town and Country Golf Club,"49.23599878858725, -98.54085701677162","132 MB-3, Manitou, MB R0G 1G0",
-145,Pembina,Nellie's Homes of Manitou (Nellie McClung Heritage Site),"49.23718212225739, -98.54161049519304","55 Main St, Manitou, MB R0G 1G0",
-146,Pembina,Manitou Park,"49.239185677696405, -98.5300385260754","Edith St, Manitou, MB R0G 1G0",
-147,Pembina,Manitou War Monument,"49.24044477656442, -98.53895602537736","304-218 Main St, Manitou, MB R0G 1G0",
-148,Pembina,Manitou Opera House,"49.24099663478852, -98.53772340111495","325 Main St, Manitou, MB R0G 1G0",
-149,Pembina,Manitou Community Arena,"49.24081959624672, -98.5439063960863","212 Carrie St, Manitou, MB R0G 1G0/ Souris Ave",
-150,Pembina,Manitou Pool,"49.24105033324686, -98.54321011244149","212 Carrie St, Manitou, MB R0G 1G0/ Souris Ave",
-151,Pembina,Darlingford Memorial Park,"49.20534342753075, -98.38003657116315","212 Bradburn St, Darlingford, MB R0G 0L0",
-152,Pembina,Darlingford School Heritage Museum,"49.20514619785023, -98.38079801290799","197 Bradburn St, Darlingford, MB R0G 0L0",
-153,Dufferin,Carman Golf and Curling Club,"49.503840228867084, -98.0139255897943","4 Ave SW, Carman, MB R0G 0J0",
-154,Dufferin,Carman Pool & Campground,"49.50530424457606, -98.01264861734488","30 Kings Park Rd, Carman, MB R0G 0J0",
-155,Dufferin,Carman Arena,"49.50718007473257, -98.01333299586862","44 Kings Park Rd, Carman, MB R0G 0J0",
-156,Dufferin,Carman Soccer Complex,"49.51139550404196, -98.02382896153934","Sexsmith Dr., MB, R0G 0J0",
-157,Dufferin,Carman Museum,"49.50302066183202, -98.01060699799216","20 Kelly Hand Dr, Carman, MB R0G 0J0",
-158,Dufferin,Golden Prairie Arts Council,"49.50846315510782, -98.003657806333","38 Centre Ave W, Carman, MB R0G 0J0",
-159,Dufferin,Carman Memorial Hall,"49.50539820692719, -98.00234004502954","12–2nd Avenue SW, Carman",
-160,Dufferin,Stephenfield Provincial Park,"49.522605096259355, -98.29861422731922","MB-245, Manitou, MB R0G 1G0",
-161,Dufferin,Stephenfield Lake Dam,"49.52485407375012, -98.28128555111508","Lake, Stephenfield, MB",
-162,Dufferin,The Rose Of Roseisle,"49.49945726186948, -98.34362513885152","Main Ave., MB, R0G 1V0",
-163,Thompson,Alexander Ridge Park,"49.370614765003694, -98.32925363312395","Miami, MB R0G 1H0",
-164,Thompson,Miami Golf And Country Club Inc,"49.38146657676182, -98.27689828113829","12 5 St, Miami, MB R0G 1H0",
-165,Thompson,Miami Curling Rink,"49.368833593827674, -98.24432691401287","766 MB-23, Miami, MB R0G 1H0",
-166,Thompson,Miami Railway Station Museum,"49.369859461262166, -98.2440037042231","500 Norton Ave, Miami, MB R0G 1H0",
-167,Thompson,Miami Campground,"49.370145747718986, -98.24009049998755","33 Broadway St, Miami, MB R0G 1H0",
-168,Thompson,Miami Museum,"49.37173963032147, -98.24465936808582","99 3 St, Miami, MB R0G 1H0",
-169,Thompson,Pumpkin Creek Ski Club,"49.48670343733489, -98.40550300665035","Unnamed Road, Roseisle, MB R0G 1V0",
-170,Thompson,"Pumpkin Creek ski trails, Roseisle","49.48673243976907, -98.40400367023511","Unnamed Road, Roseisle, MB R0G 1V0",
-171,Thompson,Birch Ski Area,"49.47018371461463, -98.38353797905921","NW 8-6-7W, Roseisle, MB R0G 1V0",
-172,Roland,World's Largest Pumpkin,"49.369170084185676, -97.9483780588271","Pacific Ave,. MB, R0G 1T0",
-173,Roland,Roland Arena,"49.36576053645249, -97.9412319943925","36 South Ave, Roland, MB R0G 1T0",
-174,Roland,Roland Campground,"49.36579891364411, -97.94248991355279","26 South Ave, Roland, MB R0G 1T0",
-175,Roland,Roland Memorial Hall,"49.365810679799424, -97.93924874564387","45 3 St, Roland, MB R0G 1T0",
-176,Roland,Roland Memory Gardens,"49.36750520342737, -97.93985229198297","68 3 St, Roland, MB R0G 1T0",
-177,Roland,4-H Museum,"49.367835548555554, -97.9398820246122","72 3 St, Roland, MB R0G 1T0",
-178,Roland,Roland Golf Club,"49.395567876197, -97.95810203860229","NE 17-5 4W, Roland, MB R0G 1T0",
-179,Rhineland,Altona Centennial Park Campground,"49.108509398812885, -97.56764244605202","Altona, MB R0G 0B1",
-180,Rhineland,Centennial Park,"49.109042503503645, -97.57028894675044","227 10 Ave NW, Altona, MB R0G 0B1",
-181,Rhineland,Altona Aquatic Centre,"49.10980536166789, -97.56866882144672","10 Ave NW, Altona, MB R0G 0B0",
-182,Rhineland,Gallery in the Park,"49.11125472544739, -97.56672818199033","245 10 Ave NW, Altona, MB R0G 0B0",
-183,Rhineland,Millennium Exhibition Centre,"49.11118749042378, -97.5654528059404","227 10 Ave NW, Altona, MB R0G 0B0",
-184,Rhineland,Van Gogh’s ‘Sunflowers’,"49.111139244856304, -97.55254797839089","10 Ave NE, Altona, MB R0G 0B1",
-185,Rhineland,Friesen Housebarn Interpretive Centre,"49.072185595557094, -97.48240300118664","4140 Rd 1 W, Altona, MB R0G 0B0",
-186,Rhineland,Plum Coulee Campground,"49.188791305916226, -97.76549289733583","Plum Coulee, MB R0G 1R0",
-187,Rhineland,Sunset Beach,"49.18881569716116, -97.76107338053458","Plum Coulee, MB R0G 1R0",
-188,Rhineland,Plum Coulee/District Museum,"49.19021641459551, -97.76171141911705","277 Main Ave, Plum Coulee, MB R0G 1R0",
-189,Rhineland,St. Joseph de la Rivière aux Marais Campground,"49.136940855715046, -97.39002161295812","116 Brias Blvd, Saint Joseph, MB R0G 2C0",
-190,Rhineland,Musée St. Joseph Museum,"49.135447236818386, -97.38817879410857","25 Brais Boulevard, Saint Joseph, MB R0G 2C0",
-191,Morden,Morden Tourism Kiosk,"49.1976853334751, -98.0949371329365","111 Gilmour St, Morden, MB R6M 1N9",
-192,Morden,Canadian Fossil Discovery Centre,"49.19745710050638, -98.09515562751825","111 Gilmour St B, Morden, MB R6M 1N9",
-193,Morden,Access Event Centre,"49.197791306491624, -98.09504729491147","111-D Gilmour St, Morden, MB R6M 1N9",
-194,Morden,Bruce the Mosasaur,"49.193227598728235, -98.07729906000583","Loren Drive, Morden, MB ",
-195,Morden,Minnewasta Golf & Country Club,"49.18707763345783, -98.12957722055684","19 Buhler Dr, Morden, MB R6M 1A2",
-196,Morden,Lake Minnewasta,"49.18287790284588, -98.13667299496892","100 Colert Rd, Morden, MB R6M 1V3",
-197,Morden,Dog Town,"49.16270231139876, -98.09965387024545","Rm of, Rd 11 N, Morden, MB",
-198,Morden,Lions Park,"49.196056073603884, -98.11828736162177","900 Gilmour St, Morden, MB R6M 1K3",
-199,Morden,ALH Motor Speedway,"49.20118661912276, -98.18198978416936","Road 32 North, Morden, MB R6M 1B5",
-200,Winkler,Bethel Heritage Park,"49.178416905043306, -97.93988125403617","193 6 St, Winkler, MB R6W 1J1",
-201,Winkler,Discovery Nature Sanctuary,"49.19114719685805, -97.91156378086002","Eastview Dr., Winkler, MB ",
-202,Winkler,Winkler Heritage Museum,"49.1908491118603, -97.9301354737392","777 Norquay Dr, Winkler, MB R6W 2S2",
-203,Winkler,Winkler Aquatic Centre & Campground,"49.18733156238527, -97.94602681299067","580 Park St, Winkler, MB R6W 1B2",
-204,Winkler,Meridian Exhibition Centre,"49.18778020689162, -97.94754598134104","1045 Grandeur Ave, Winkler, MB R6W 1G2",
-205,Winkler,Winkler Arts & Culture,"49.186717880844434, -97.94420685934804","547 Park St, Winkler, MB R6W 1C5",
-206,Winkler,Lion Fred Rietze Memorial Park,"49.17353413218288, -97.94568962750978","Linden Dr, Winkler, MB R6W 1Z4",
-207,Winkler,Kinsmen Heritage Park,"49.17400350004067, -97.93333450652395","Scotia Dr. Winkler, MB R6W 2Y9",
-208,Winkler,Winkler Centennial Golf Course,"49.18244104608934, -97.95698445606848","400 15th St, Winkler, MB R6W 4B1",
-209,Winkler,Pine Ridge Skate Plaza,"49.1848354922787, -97.9571052559561","15th St & Grandeur Ave, Winkler, MB",
-210,Winkler,Winkler Dog Park,"49.1945681671929, -97.94639124124328","Boundary Trail, Winkler, MB",
-211,Winkler,VB's Entertainment Center / King Pinz Pub & Grill,"49.19372468813253, -97.96298305047794","1765 Diamond Dr, Winkler, MB R6W 0L4",
-212,Stanley,Pembina Valley Provincial Park,"49.00857463902149, -98.27395430271392","201 PrRd/Rd. 37 W,Thornhill, MB R0G 2T0",
-213,Stanley,Woodhenge,"49.05221555430047, -98.08497104708094","27105 Rd 3.5 N, Thornhill, MB R0G 2T0",
-214,Stanley,Tinker Creek,"49.08786668246033, -98.11545575674607","Rd. 6 N, MB R0G 2T0",
-215,Stanley,"Tinker Creek, Trans Canada Trail","49.05943725137365, -98.10817952959856","MB-201, Thornhill, MB R0G 2T0",
-216,Stanley,Pembina Threshermen's Museum,"49.19157708363146, -98.01483479279543","Hwy #3, Winkler, MB R6W 4B2",
-217,Stanley,Winkler Bible Camp Inc,"49.24137586420226, -97.99884959521377","16037 MB-3, Winkler, MB R6P 0G9",
-218,Stanley,Burwalde Woods Trails,"49.240223396554434, -98.00292094171347","MB-3, MB R0G 1T0",
-219,Stanley,Meadows Amusements,"49.22605469597375, -97.93504712108016","15044 MB-428, Winkler, MB R6W 4A6",
-220,Stanley,Stanley Centennial Park,"49.14758838319051, -98.19522392243621","32126 Rd 10 N, Thornhill, MB R0G 2T0",
-221,Andrews,Netley Creek Provincial Park,"50.29067051055674, -96.865812572716","MB-320, Petersfield, MB R0C 2L0",Provincial Park
-222,Andrews,Netley Resorts Ltd,"50.287870914030115, -96.92305523445731","Tom Prince Dr, Petersfield, MB R0C 2L0",Resorts
-223,Andrews,Chesley's Resort & Campground,"50.288664717992575, -96.93084829870682","212 Tom Prince Dr, Petersfield, MB R0C 2L0",Campground
-224,Andrews,The Mallard Duck Park,"50.30380149737636, -96.9752661529382","8950, Provincial Trunk Hwy 9, Petersfield, MB R0C 2L0",Park
-225,Andrews,Petersfield Curling Club,"50.30746173342511, -96.96795148225813","700 Main St, Petersfield, MB R0C 2L0",Curling Club
-226,Andrews,Netley Creek Golf Course & RV Park,"50.307941980265504, -96.99382660910558","1753 Fairway Rd, Petersfield, MB R0C 2L0",Golf Course
-227,Andrews,Oak Hammock Marsh Wetland Discovery Centre,"50.17380478893447, -97.13296007348225","1 Snow Goose Bay, Stonewall, MB R0C 2Z0",Museum
-228,Dunnottar,Whytewold pier,"50.45736352442601, -96.9507860131391","214 MB-232, Whytewold, MB R0C 2B0",Pier
-229,Dunnottar,Village of Dunnottar Public Pier,"50.448837557553475, -96.95075930228552","Dunnottar, MB R0C 2B0",Pier
-230,Dunnottar,Matlock Beach,"50.443073114504074, -96.9551633002694","72 Gimli Rd, Matlock, MB R0C 2B0",Beach
-231,Dunnottar,Public pier/ beach area,"50.43249147031259, -96.94992990622265","Dunnottar, MB R0C 2B0",Beach
-232,Dunnottar,Matlock Lake Access,"50.42933431099171, -96.94633353372375","5 Ralph Ave, Sans Souci, MB R0C 2B0",Fishing Area
-233,Rockwood,Norris Lake Provincial Park,"50.482233627653116, -97.4177158991333","Inwood, MB R0C 1P0",Park
-234,Rockwood,Teulon Cross Country Ski Club,"50.34431363816202, -97.26331022152873","91 Rd N, Gunton, MB R0C 1H0",Ski Club
-235,Teulon,Teulon Golf Club,"50.39701410061524, -97.25156783812966","94-089 MB-7, Teulon, MB R0C 3B0",Golf Course
-236,Teulon,Teulon Rockwood Green Acres Campground,"50.37790559646953, -97.25851380299925","Main St, Teulon, MB R0C 3B0",Campground
-237,Teulon,Teulon-Rockwood Green Acres Park,"50.381297342098414, -97.25997152928113","8 Ave SE, Teulon, MB R0C 3B0",Park
-238,Teulon,Teulon Museum,"50.38187405177762, -97.25441838828144","173 7 Ave SE, Teulon, MB R0C 3B0",Museum
-239,Teulon,Teulon-Rockwood Arena,"50.380749509813306, -97.26273706382833","28 8 Ave SE, Teulon, MB R0C 3B0",Arena
-240,Stonewall,Veterans Memorial Sports Complex,"50.129236286335285, -97.32579987596554","550 Main St, Stonewall, MB R0C 2Z0",Sports Complex
-241,Stonewall,Stonewall Curling Club,"50.12896783623128, -97.32535522209669","500 Main St, Stonewall, MB R0C 2Z0",Curling Rink
-242,Stonewall,Quarry Lanes,"50.13421132560526, -97.32550063727172","369 1 St E, Stonewall, MB R0C 2Z0",Bowling Alley
-243,Stonewall,Stonewall Quarry Park,"50.14116856221166, -97.32542064825107","166 Main St, Stonewall, MB R0C 2Z0",Park
-244,Stonewall,Quarry Park Museum,"50.1411126476688, -97.3257468648507","166 Main St, Stonewall, MB R0C 2Z0",Museum
-245,Stonewall,Kinsmen Lake,"50.14144557358609, -97.32857923855867","459 4 Ave N, Stonewall, MB R0C 2Z0",Beach
-246,Woodland,Woodlands Pioneer Museum,"50.20363253186741, -97.65532867490998","Woodlands, MB R0C 3H0",Museum
-247,Woodland,Miami Beach,"50.209676619875836, -97.71309947559236","Woodlands, MB R0C 3H0",Beach
-248,Woodland,Warren Sunove Arena,"50.12557175311195, -97.53794624167335","149 MacDonald Ave, Warren, MB R0C 3E0",Arena
-249,Woodland,Whispering Winds of Warren Golf and Country Club,"50.131964635366394, -97.52596915869816","Rd 3 W, Warren, MB R0C 3E0",Golf Course
-250,Woodland,Rubber Ducky Resort and Campground,"50.13145229804024, -97.49269071434954","1069 Rd 76.5 N, Warren, MB R0C 3E0",Campground
-251,Woodland,Grosse Isle Heritage Site,"50.06585175167987, -97.44473062836556","Grosse Isle, MB R0C 1G0",Museum
-252,St. Laurent,OakPoint RV Resort,"50.511659349577805, -98.03756943478491","box 75, Oak Point, MB R0C 2J0",RV Park
-253,St. Laurent,St. Laurent Arena,"50.41270815593207, -97.94342544885534","464 St Veterans Memorial, Saint Laurent, MB R0C 2S0",Arena
-254,St. Laurent,Meindl Park,"50.33746057554753, -97.96345957785634"," Twin Lakes Beach, MB",Beach
-255,St. Laurent,Paintball Paradise St. Laurent,"50.42877111613037, -97.87230623241841","Stony Ridge Rd, Saint Laurent, MB R0C 2S0",Paintball Center
-256,St. Laurent,Stonyridge Campground,"50.42818967580992, -97.87253277094965","Saint Laurent, MB R0C 2S0",Campground
-257,Alonsa,Sandy Bay Arena (Howard Starr Civic Centre),"50.548753604266224, -98.64950204156388","194 Townsite Bay, Marius, MB R0H 0T0",Arena
-258,Alonsa,Alex Robertson Museum,"50.800729267531544, -98.97333424267043","Church Rd S, Alonsa, MB R0H 0A0",Museum
-259,Alonsa,Alonsa Curling Rink,"50.80007210993775, -98.97454993556372","Church Rd S, Alonsa, MB R0H 0A0",Curling Rink
-260,Gimli,Camp Morton Campground,"50.69764751989714, -96.99485732264182","Camp Morton, MB R0C 0M0",Campground
-261,Gimli,Links At the Lake,"50.654828398999555, -96.9878742843206","Thompson Dr, Pelican Beach, MB R0C 1B0",Golf Course
-262,Gimli,Skydive Manitoba,"50.63646828205541, -97.04474723521108","177 Anson St, Aspen Park, MB R0C 1B0",Skydiving Center
-263,Gimli,Gimli Aquatic Centre,"50.63328720336574, -96.99927664664123","42 Centennial Rd, Gimli, MB R0C 1B0",Aquatic Center
-264,Gimli,Gimli Recreation Centre,"50.63367779924329, -97.00155022133369","45 Centennial Rd, Gimli, MB R0C 1B0",Recreation Center
-265,Gimli,Gimli Pavilion Park,"50.639302140289935, -96.99033052527473","1 Fourth Ave, Gimli, MB R0C 1B0",Park
-266,Gimli,Gimli Beach,"50.63580333901771, -96.98371401699414","Gimli, MB R0C 1B0",Beach
-267,Gimli,Gimli Glider Museum,"50.63241947467151, -96.9852598005643","10 Centre St, Gimli, MB R0C 1B0",Museum
-268,Gimli,Gimli Theatre,"50.63264996115846, -96.9874124956681","72 2 Ave, Gimli, MB R0C 1B0",Theater
-269,Gimli,Gimli Harbour Authority,"50.63200304988536, -96.98510191751562","1 Centre St, Gimli, MB R0C 1B0",Marina
-270,Gimli,Lake Winnipeg Visitor Centre & Tourist Information,"50.63166815803391, -96.98412862067875","1 Centre St #1, Gimli, MB R0C 1B0",Tourist Information
-271,Gimli,New Iceland Heritage Museum,"50.630910111728454, -96.98627852841345","94 1 Ave, Gimli, MB R0C 1B1",Museum
-272,Gimli,Idle Wheels RV Park,"50.565733993463894, -96.9976715631015","Husavik Rd 106N, Manitoba R0C 1B0",RV Park
-273,Gimli,Sandy Hook Beach,"50.54490389360621, -96.98074750217066","10 Ave, Sandy Hook, MB R0C",Beach
-274,Gimli,Sandy Hook Golf Club,"50.532007499207076, -96.98944426922431","71 Clubhouse Rd, Sandy Hook, MB R0C 2W0",Golf Course
-275,Gimli,Sandy Hook R.V. Resort,"50.52346261544248, -96.97663091263868","103014 Pth 9, Sandy Hook, MB R0C 2W0",Resort
-276,Winnipeg Lake,Beach Side Park,"50.51739380054835, -96.97116558677449","Winnipeg Beach, MB R0C 3G0",Park
-277,Winnipeg Lake,Wildwood Park Trailer Resort,"50.51032527425857, -96.97616057452699","102040 Pth 9, Winnipeg Beach, MB R0C 3G0",RV Park
-278,Winnipeg Lake,Boundary Creek Marina,"50.50772588963578, -96.96651202621808","Gimli, Park Ave, Winnipeg Beach, MB R0C 3G0",Marina
-279,Winnipeg Lake,Winnipeg Beach Dog Beach,"50.49517193617772, -96.96100718244422","Winnipeg Beach, MB",Dog Beach
-280,Winnipeg Lake,Winnipeg Beach Municipal Recreation Centre,"50.495574816793074, -96.96686636216008","32 Hamilton St, Winnipeg Beach, MB R0C 3G0",Arena
-281,Winnipeg Lake,Winnipeg Beach Curling Rink,"50.495741026817875, -96.96645513178909","26 Hamilton Ave, Winnipeg Beach, MB R0C 3G0",Curling Rink
-282,Winnipeg Lake,Winnipeg Beach Lighthouse,"50.50558294584905, -96.9680530489654","Winnipeg Beach, MB R0C 3G0",Historical Landmark
-283,Winnipeg Lake,Winnipeg Beach,"50.49753393011379, -96.9645694698513","Winnipeg Beach, MB R0C 3G0",Beach
-284,Armstrong,M.P.C. Reunion Park,"50.728576742488094, -97.22698013159152","Unnamed Road, Meleb, MB R0C 2C0",Park
-285,Armstrong,Inwood Golf & Country Club,"50.51706097093013, -97.50480776323157","hwy 17N, Inwood, MB R0C 1P0",Golf Course
-286,Armstrong,Inwood Arena & Archery Range,"50.50822739311205, -97.49362160757693","44 MB-229, Inwood, MB R0C 1P0",Recreation Center
-287,Armstrong,Narcisse Snake Dens,"50.73460423164851, -97.53034101031565","MB-17, Narcisse, MB R0C 2H0",Nature Preserve
-288,Armstrong,Narcisse Wildlife Management Area,"50.70542892664473, -97.66940142656443","Narcisse, MB R0C 2H0",Park
-289,Coldwell,Lundar Beach Provincial Park,"50.7235081210524, -98.27373481773951","0 Vincent Rd, Lundar, MB R0C 1Y0",Provincial Park
-290,Coldwell,Lundar Memorial Arena,"50.69589113915322, -98.03907399596635","85 Main St, Lundar, MB R0C 1Y0",Arena
-291,Coldwell,Lundar Pool,"50.695699430544686, -98.03837863662416","75 Main St, Lundar, MB R0C 1Y0",Pool
-292,West Interlake,Ashern Arena,"51.18536523864571, -98.34865600783499","Ashern, MB R0C 0E0",Arena
-293,West Interlake,Ashern Sharptail Park,"51.18401436912283, -98.35077187974407","Ashern, MB R0C 0C5",Park
-294,West Interlake,Lake Manitoba Narrows Seasonal Campground,"51.08175762296584, -98.77607773173739","2K0, MB-68, Oakview, MB R0C 2K0",Campground
-295,West Interlake,Chief's Point Beach & Campground,"50.875629273516644, -98.5245687541203",Manitoba R0C 3K0,Campground
-296,West Interlake,Eriksdale Creamery Museum,"50.861863811039356, -98.10515674329059","Eriksdale, MB R0C 0W0",Museum
-297,Bifrost-Riverton,Hecla Provincial Park,"51.08237677585737, -96.8618534473832","Provincial Trunk Highway 8, Lake, Winnipeg, MB",Provincial Park
-298,Bifrost-Riverton,Sandy Bar Fishing Club,"50.98680480393407, -96.93004000731574","329 Rd, Riverton, MB R0C 2R0",Fishing Club
-299,Bifrost-Riverton,Sandy Bar Beach,"50.9868041264589, -96.93065474110954","329 Rd, Riverton, MB R0C 2R0",Beach
-300,Bifrost-Riverton,Riverton Arena,"50.99543191178982, -96.99962591806106","99 Main St, Riverton, MB R0C 2R0",Arena
-301,Bifrost-Riverton,Riverton Skate Park,"50.99547222516535, -97.00295681626342","134 Park Ave SW, Riverton, MB R0C 2R0",Skate Park
-302,Bifrost-Riverton,Hnausa Beach Campground,"50.90005079970779, -96.99383886403407","Hnausa Beach Provincial Park, Riverton, MB R0C 2R0",Campground
-303,Arborg,The Arborg & District Multicultural Heritage Village,"50.90326860514249, -97.2075781409019","MB-68, Arborg, MB R0C 0A0",Museum
-304,Arborg,Arborg & District Arena,"50.910513981059985, -97.2151051012128","437 Recreation Centre, Arborg, MB R0C 0A0",Arena
-305,Arborg,Arborg Curling Rink,"50.910462489554924, -97.21602792410758","417 Recreation Centre, Arborg, MB R0C 0A0",Curling Club
-306,Arborg,Noventis Aquatic Centre,"50.91073125721563, -97.21565281953387","Recreation Centre, Arborg, MB R0C 0A0",Aquatic Center
-307,Arborg,Arborg Kinsmen Campground,"50.9021900556592, -97.23083908991241","Jct Hwy 7 & Hwy, MB-68, Arborg, MB R0C 0A0",Campground
-308,Grahamdale,Agassiz Outfitters,"51.76927082691908, -98.73545551146198","MB-6, Gypsumville, MB R0C 1J0",Hunting Area
-309,Grahamdale,Roviera Campground,"51.589403305329924, -98.72782562970778","Fairford River Rd & Highway 6, Fairford, MB R0C 0X0",Campground
-310,Grahamdale,Fairford 50,"51.5897671258067, -98.62341384852488",Manitoba R0C 0X0,Nature Reserve
-311,Grahamdale,Armand Lemiez Homestead Site,"51.38227283614911, -98.50121328109172","Unnamed Road, MB R0C 1C0",Museum
-312,Grahamdale,Watchorn Provincial Park,"51.27797793718971, -98.56223024825216","Moosehorn, MB R0C 2E0",Provincial Park
-313,Grahamdale,Moosehorn Heritage Museum,"51.29280360699441, -98.4235181555822","Railway Ave, Moosehorn, MB R0C 2E0",Museum
-314,Churchill,Prince of Wales Fort National Historic Site,"58.79721529750098, -94.21330194374211","Prince of Wales Fort, Churchill, MB R0B 0E0",Historical Landmark
-315,Churchill,Cape Merry,"58.78560068390051, -94.20162936167505","Churchill, MB R0B 0E0",Historical Landmark
-316,Churchill,Custom Churchill Tours,"58.77936168247727, -94.19554183110456","Port Pl, Churchill, MB R0B 0E0",Tour Agency
-317,Churchill,Itsanitaq Museum,"58.77044199360203, -94.1668630110849","242 La Vérendrye Ave, Churchill, MB R0B 0E0",Museum
-318,Churchill,Discover Churchill Photo Gallery,"58.76732319188046, -94.168812011903","280 Kelsey Blvd, Churchill, MB R0B 0E0",Museum
-319,Churchill,Kischikamee adventure inc,"58.768215327963986, -94.16114297000013","86 Hearne St, Churchill, MB R0B 0E0",Tourist Attraction
-320,Churchill,Miss Piggy plane wreck,"58.76054635366242, -94.08645641571118","Churchill, MB R0B 0E0",Tourist Attraction
-321,Churchill,Aurora Domes,"58.75768760355086, -93.9972380534201","152 Kelsey Blvd, Churchill, MB R0B 0E0",
-322,RM of Grand Rapids,Hobbs Resort,"53.26622061702602, -99.40597167522661","Grand Rapids, MB R0C 1E0",Resort
-323,RM of Grand Rapids,Cook Campground and Cabins,"53.260646887300695, -99.41591724492856","Grand Rapids, MB R0C 1E0",Campground
-324,RM of Grand Rapids,Moak Lodge & Camping,"53.27656161971903, -99.40482645074398","Grand Rapids, MB R0C 1E0",Campground
-325,RM of Grand Rapids,Pine Grove Cabins,"53.17357161252012, -99.26685896969656","79 Grand Rapids Dr, Grand Rapids, MB R0C 1E0",Cottage Rental
-326,RM of Grand Rapids,Grand Rapids Community Complex,"53.180076640993484, -99.26890329187589","Grand Rapids Dr, Grand Rapids, MB R0C 1E0",Arena
-327,RM of Grand Rapids,Grand Rapids Lodge,"53.18453264294799, -99.26536693840373","Ferry Rd, Grand Rapids, MB R0C 1E0",Lodge
-328,RM of Grand Rapids,Grand Rapids Provincial Park,"53.14158161930926, -99.2851380381682","Grand Rapids, MB R0C 1E0",Provincial Park
-329,Snow Lake,Sunset Beach,"54.87323649239818, -100.01756511616267","107 Lipsey Dr, Snow Lake, MB R0B 1M0",Beach
-330,Snow Lake,Brentwood Park,"54.878351947668065, -100.01866786495806","Snow Lake, MB R0B 1M0",Park
-331,Snow Lake,MB Star Attraction Mining Museum,"54.88052578649226, -100.02128787532075","163 Poplar Ave, Snow Lake, MB R0B 1M0",Museum
-332,Snow Lake,Wilfred T Lipton Arena,"54.88168588190135, -100.02293357441197","202 Cherry St, Snow Lake, MB R0B 1M0",Arena
-333,Snow Lake,Wekusko Falls Provincial Park,"54.7923328955953, -99.97243731990037","MB-392, Snow Lake, MB R0B 1M0",Provincial Park
-334,Snow Lake,Wekusko Falls,"54.790191313192295, -99.97278847557992","Snow Lake, MB R0B 1M0",Waterfall
-335,Snow Lake,Wekusko Falls Lodge,"54.787855777405014, -99.97070081312326","Snow Lake, MB R0B 1M0",Lodge
-336,Kesley,Cranberry Portage Arena,"54.58316715972195, -101.37388937894643","Cranberry Portage, MB R0B 0H0",Arena
-337,Kesley,McKenzie's RV Park,"54.58317349438707, -101.38907466600348","126 MacLean St, Cranberry Portage, MB R0B 0H0",RV Park
-338,Kesley,Cranberry Portage Museum,"54.585756347492286, -101.38222500295304","102 Railway Ave, Cranberry Portage, MB R0B 0H0",Museum
-339,Kesley,Aseneskak Casino,"53.838210675905685, -101.26868886850146","MB-10, Opaskwayak, MB R0B 2J0",Casino
-340,Kesley,Gordon Lathlin Memorial Centre,"53.83252790021153, -101.25908249155312",Gordon Lathlin Memorial Centre,Arena
-341,The Pas,Devon Park East,"53.83062387862603, -101.25123265410447","The Pas, MB R0B 2J0",Park
-342,The Pas,Camper's Cove Beach,"53.974553580014415, -101.16792199222887","Cottage Cove Road, Manitoba R0B 1T0",Beach
-343,The Pas,Evergreen Resort,"53.98501440218956, -101.18147967386248","50 Fischer Ave, The Pas, MB R0B 1T0",Resort
-344,Flin Flon,Flinty's Trail and Boardwalk,"54.76893763585529, -101.857782098967","Flinty Boardwalk, Flin Flon, MB R8A 0T3",Hiking Trail
-345,Mystery Lake,Paint Lake Provincial Park,"55.49131533068285, -98.02361439004497","59 Elizabeth Drive, Thompson, MB R8N 1X4",Provincial Park
-346,Mystery Lake,Paint Lake Lodge,"55.49187137820406, -98.02735372100344","Lot 1, Hwy 375, Paint Lake, MB R8N 1N1",Marina
-347,Thompson,Mystery Mountain Winter Park,"55.871049267000785, -97.7771655076001","BOX 246, Thompson, MB R0B 1E0",Ski Hills
-348,Thompson,Thompson Golf Club,"55.77431152727131, -97.82977468798866","1Moak, Lake Rd, Thompson, MB",Golf Course
-349,Thompson,Thompson Lions Park,"55.75073989289367, -97.84500934387317","Thompson, MB R8N 1T2",Park
-350,Thompson,C.A. Nesbitt Arena,"55.74942175992178, -97.86544056517971","Thompson, MB R8N 0C4",Arena
-351,Thompson,Burntwood Curling Club,"55.75028742380563, -97.86531476358162","294 Thompson Dr, Thompson, MB R8N 0C4",Curling Club
-352,Thompson,The Miner Monument,"55.72599625067856, -97.8663295575523","108 Severn Crescent, Thompson, MB R8N 1M9",Historical Landmark
-353,Gillam,Town of Gillam - Gillam Recreation,"56.348519767641044, -94.70275682927","235 Mattonnabee Ave, Gillam, MB R0B 0L0",Recreation Center
-354,Gillam,Snowmobilers of Manitoba: Snoman Inc. Trail,"56.35092801373744, -94.70656772330516","12 Gillam Dr, Gillam, MB R0B 0L0",Snowmobile Trail
-355,Town of Lynn Lake,Northbound Adventure Tours Inc,"56.85179878654238, -101.04754345929571","499 Sherritt Ave, Lynn Lake, MB R0B 0W0",Tourist Information
+id,muin_city,attraction_site,coordinates,category,review,website,phone,address,description
+1,West St. Paul,Moore Park,"50.01069346748644, -97.14490263127486",Playground,,,,"421 Moore Rd, West Saint Paul, MB R4A 7A4",Playground
+2,West St. Paul,Winnipeg Revolver & Pistol Association,"50.037973796781536, -97.08796946620622",Shooting range,4.2,http://www.wrparange.com/,12043383310,"1201 Miller Rd, Manitoba R4A 1B7",Shooting Range
+3,Headingley,Splash pads,"49.87768559317994, -97.40391539416858",Playground,5,,,"5353 Portage Ave, Headingley, MB R4H 1J9",Playground
+4,Headingley,Thunder Rapids Amusement Park,"49.87381528602016, -97.38712415127536",Amusement park,4.5,http://www.thunderrapids.ca/,12048857223,"5058 Portage Ave, Headingley, MB R4H 1E1",Amusement Park
+5,Headingley,John Blumberg Soccer Fields,"49.87552088287172, -97.3571523814145",Sports complex,4.1,,12048310263,"3400 Portage Ave, Headingley, MB R4H 1C6",Soccer Fields
+6,Headingley,John Blumberg Softball Complex,"49.873988291082355, -97.3567906577854",Softball field,4.1,https://www.leaguelineup.com/welcome.asp?url=jbsc,12048310263,"4540 Portage Ave, Headingley, MB R4H 1C6",Baseball Diamonds
+7,Rosser,Little Mountain Sportsplex,"49.95628907019149, -97.2559362217362",Sports complex,4.4,http://www.littlemtnsports.com/,12046943210,"64-128 Klimpke Rd, Winnipeg, MB R3C 2E6",Sports Complex
+8,Rosser,Little Mountain Park,"49.954703457874125, -97.2517077168499",Park,4.5,,,"Farmer Avenue, Stony Mountain, MB R0C 3A0",Park
+9,Rosser,Little Mountain Off-leash,"49.954614561412725, -97.25143774705509",Dog park,4.7,,,"Klimpke Rd, Manitoba R0H 1E0",Dog Park
+10,Rosser,Prairie Dog Central Railway,"49.951779852861065, -97.26998255833801",Rail museum,4.7,https://www.pdcrailway.com/,12048325259,"64099 Prairie Dog Trail, Rosser, MB R0H 1E0",Rail Museum
+11,Rosser,Kiinu Oasis Gaming Centre,"49.99296318403842, -97.31997995203092",Casino,4.1,http://www.kiinugaming.ca/,12046330067,"Hwy 236 & Hwy 6, Rosser, MB",Casino
+12,Rosser,Bel Acres Golf & Country Club,"50.03610211713805, -97.27922822473609",Golf course,4.1,https://www.belacres.com/,12046328337,Manitoba R0C 3A0,Golf Course
+13,Rosser,Six Pines Haunted Attractions & Petting Farm & Wedding/Corporate events Venue,"50.025285182963245, -97.27631482033223",Haunted house,4.1,http://www.sixpineshaunted.com/,12046333326,"BOX 27 B, RR 2, MB R3C 2E6",Haunted House
+14,St. Francois-Xavier,Marquette Cemetery,"50.05126354562054, -97.84654515869777",Cemetery,,,,"MB-26, Saint François Xavier, MB R4L 1B6",Cemetery
+15,St. Francois-Xavier,Cuthbert Grant Park,"49.91488620188719, -97.54524758663196",Park,4.3,,,"MB-26 &, McCaughan Rd, Saint François Xavier, MB",Park
+16,Cartier,St. Eustache Arena,"49.973131743529294, -97.78000672529197",Hockey rink,4.9,,,"10 Allarie St, Saint Eustache, MB R0H 1H0",Arena
+17,Cartier,Beaudry Provincial Park,"49.86121941567935, -97.47740297126109",State park,4.6,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/beaudry.html,18002146497,"MB-241, Springstein, MB R0G 2N0",Park
+18,Cartier,Headingley Grand Trunk Trail,"49.85397165035748, -97.47379353433044",Hiking area,4.5,,,"Cartier, MB R0G 2N0",Hiking Trail
+19,Cartier,Mann Mennonite Cemetery,"49.84629232112997, -97.77736087199284",Cemetery,,,,Manitoba R0H 0H0,Cemetery
+20,Portage La Prairie,World's Largest Coca Cola Can,"49.97155625943936, -98.33095674715068",Tourist attraction,4.2,,,"2445 Saskatchewan Ave W, Portage la Prairie, MB R1N 3B5",
+21,Portage La Prairie,Abenaki Art Works,"49.98452477535191, -98.28703351730815",Art gallery,4.4,,12048575945,"730 Midland St N, Portage la Prairie, MB R1N 1T1",
+22,Portage La Prairie,Provista Park,"49.98372716285722, -98.29310411443117",City park,4.2,,,"628 3 St NW, Portage la Prairie, MB R1N 2C7",
+23,Portage La Prairie,Simplot Central Park,"49.98035029340009, -98.29367312403443",Playground,5,,,"Portage la Prairie, MB R1N 2A7",
+24,Portage La Prairie,Beaver Stadium,"49.980010359657285, -98.29974039768956",Stadium,,,,"Portage la Prairie, MB",
+25,Portage La Prairie,BDO Centre for the Community,"49.97898096808088, -98.29265982544953",Arena,4.1,https://www.strideplace.ca/bdo-centre/,12048561075,"390 1 St NW, Portage la Prairie, MB R1N 1Z3",
+26,Portage La Prairie,Portage La Prairie Armoury,"49.976389129917706, -98.28751307572445",Historical landmark,4.8,,,"143 2 St NE, Portage la Prairie, MB R1N 1S1",
+27,Portage La Prairie,Portage la Prairie Model Railroad Club,"49.974569044389725, -98.28585336481068",Museum,4,http://www.cprstationportage.ca/PMRC.html,,"251 3 St NE, Portage la Prairie, MB R1N 0H8",
+28,Portage La Prairie,Prairie City Cinema,"49.97382115639718, -98.28610963973982",Movie theater,4.5,http://www.prairiecitycinema.com/,12048579233,"225 Prince Ave, Portage la Prairie, MB R1N 3K3",
+29,Portage La Prairie,Prairie Fusion Arts & Entertainment,"49.97382319769572, -98.28806681929916",Art gallery,4.8,https://www.prairiefusion.ca/,12042396029,"11 2 St NE, Portage la Prairie, MB R1N 1R8",
+30,Portage La Prairie,William Glesby Centre,"49.9736149132596, -98.28788373762528",Performing arts theater,4.6,https://www.prairiefusion.ca/,12042396029,"11 2 St NE, Portage la Prairie, MB R1N 1R8",
+31,Portage La Prairie,Portage Golf Club,"49.96786855691941, -98.29970493760408",Golf club,4.5,https://www.portagegolfclub.ca/,12048576177,"1 Island Park, Portage la Prairie, MB R1N 3C2",
+32,Portage La Prairie,Portage Industrial Exhibition Campground,"49.965849467534, -98.29986924816944",Campground,4.3,http://portageex.com/main/camping/,12048573231,"Island Park, Portage la Prairie, MB R1N 3B5",
+33,Portage La Prairie,Stride Place,"49.96557651193856, -98.2941728200832",Recreation center,4.4,http://www.strideplace.ca/,12048577772,"245 Royal Rd S, Portage la Prairie, MB R1N 3C5",
+34,Portage La Prairie,Splash Island Water Park,"49.965914551696244, -98.29152039922036",Water park,4.4,http://www.splashisland.ca/,12048577772,"260 Royal Rd S, Portage la Prairie, MB R1N 1T3",
+35,Portage La Prairie,Island Park Playground,"49.96541893034211, -98.28983653389598",Playground,5,,,"38 George Hill Dr, Portage la Prairie, MB R1N 3A3",
+36,Portage La Prairie,Island Park and Crescent Lake,"49.96467459353729, -98.28937548008251",Park,4.5,http://city-plap.com/,,"441 Crescent Rd E, Portage la Prairie, MB",
+37,Portage La Prairie,Portage Rotary Island Park Disc Golf,"49.96277787337595, -98.28792662772732",Disc golf course,4.3,,,"38 George Hill Dr, Portage la Prairie, MB",
+38,Portage La Prairie,Rotary Republic of Manitobah Park,"49.96230819592409, -98.27521099937432",Park,4.5,http://www.strideplace.ca/rotary-republic-of-manitobah-park/,12048577772,"Cambridge St, Portage la Prairie, MB R1N 3V6",
+39,Portage La Prairie,Keeshkeemaquah Conference & Gaming Centre,"49.961191779881446, -98.32296427083354",Conference center,4.4,,12048561220,"5008 Crescent Rd W, Portage la Prairie, MB R1N 0X7",
+40,Portage La Prairie,Pine Crescent in Portage,"49.95585429376767, -98.31855507757302",Museum,,,,"6 Pine Cres, Portage la Prairie, MB R1N 1A8",
+41,Portage La Prairie,Happy Eagle Park,"49.94956056443738, -98.34253852516261",Park,5,,,"Dakota Dr, Dakota Tipi, MB R1N 3X6",
+42,Portage La Prairie,Fort La Reine Museum,"49.97394944236341, -98.24157306050213",History museum,4.5,http://fortlareinemuseum.com/,12048573259,"2652 E Saskatchewan Ave, Portage la Prairie, MB R1N 3Z9",
+43,Portage La Prairie,Ofty's Riverside Campground,"50.15066396490481, -98.54949097130478",Campground,4.3,http://www.oftysriversidecampground.com/,12042742705,"77162 242 Pr, Hwy 242, Westbourne, MB R0H 1P0",
+44,Portage La Prairie,Delta Beach Campground,"50.184464762282346, -98.34270239400466",Campground,4.4,http://deltabeachcampground.com/camping/,12048577772,"84 Hackberry Ave W, Delta Beach, MB R0H 0S0",
+45,Portage La Prairie,Public beach,"50.18538518545909, -98.34405220478446",Park,4.4,,,Manitoba R0H 0S0,
+46,Portage La Prairie,Miller's Camping Resort,"49.9741911365859, -98.13615554123804",Resort,4.3,http://www.millerscampground.com/,12048574255,"Transcanada Hwy, Portage la Prairie, MB R1N 3C3",
+47,Portage La Prairie,Creekside Camping & RV Park,"49.96816797293977, -98.09317054989019",Campground,4.2,http://creeksidecampingrvpark.com/,12042677002,"Trans-Canada Hwy, Oakville, MB R0H 0Y0",
+48,Portage La Prairie,Oakville Arena,"49.93044427708989, -97.99817173500713",Arena,4.3,http://www.oakville-mb.ca/rental-facilities-groups/oakville-arena/,12042672207,"475 PTH 331, Oakville, MB R0H 0Y0",
+49,Portage La Prairie,Southport Golf Club,"49.90008857949771, -98.25005133297108",Golf course,4.4,http://www.southportgolfclub.ca/,12044283174,"2655 Musketeer Rd E, Southport, MB R0H 1N1",
+50,Norfolk-Treherne,Treherne Aquatic Centre,"49.62551938195046, -98.70043394139236",Recreation center,,,,"Treherne, MB R0G 2V0",
+51,Norfolk-Treherne,Cottonwood Campground,"49.62734179326345, -98.70093364438242",Campground,4.4,,12047232044,"45 Vanzile St, Treherne, MB R0G 2V0",
+52,Norfolk-Treherne,Treherne Arena,"49.62799853026036, -98.70072469519661",Ice skating rink,4.6,,12047232506,"224 Vanzile St, Treherne, MB R0G 2V0",
+53,Norfolk-Treherne,Treherne Museum,"49.6289162355409, -98.70055535740498",Museum,4,,12047232044,"183 Vanzile St, Treherne, MB R0G 2V0",
+54,Norfolk-Treherne,Second Chance Car Museum,"49.629423807226715, -98.70144648139794",Museum,4.8,,12042080526,"Railway avenue and, Vanzile St, Treherne, MB R0G 2V0",
+55,Norfolk-Treherne,Treherne Bowling & Billards,"49.63007223643747, -98.69901166477801",Bowling alley,,,12047232202,"216 Railway Ave, Treherne, MB R0G 2V0",
+56,Norfolk-Treherne,Boyne Valley trail,"49.63137156268042, -98.69549245741533",Hiking area,3,,12047232044,"Treherne, MB R0G 2V0",
+57,Norfolk-Treherne,Glass Bottle House,"49.630697736536135, -98.69631193309567",Museum,4.4,,,"Treherne, MB, R0G 2V0",
+58,Norfolk-Treherne,Delahunt Golf & Country Club,"49.64176927631946, -98.63986258250739",Golf club,4.5,http://www.trehernegolf.com/,12047232502,"Treherne, MB R0G 2V0",
+59,Lorne,Bob Sigvaldason Nature Preserve,"49.45734488402737, -99.22652143212419",Nature preserve,,,,"Argyle, MB R0K 0B0",
+60,Lorne,SLFN Splash Park,"49.38703364101235, -98.88422120996863",Water park,,,12048362101,"Unnamed Road, Swan Lake, MB R0G 2S0",
+61,Lorne,King Korn Maze,"49.51873739314393, -98.55265548118966",Tourist attraction,5,https://www.kingkornmaze.com/,12049792358,"Rd. 35 N, NOTRE DAME, MB R0G 1M0",
+62,Lorne,Notre Dame Arena,"49.53129537514414, -98.55338100356603",Arena,4.6,https://www.notredamearena.com/,12042482051,"55 NOTRE DAME AVE W, Notre Dame de Lourdes, MB R0G 1M0",
+63,Lorne,Musee Des Pionniers,"49.530854603064405, -98.55694534769741",Museum,,http://www.mhs.mb.ca/docs/sites/notredamemuseum.shtml,12042482687,"55 Rue Rogers, Notre Dame de Lourdes, MB R0G 1M0",
+64,Lorne,Ecole St. Adelard N 912,"49.50336811872729, -98.6188167093013",Historical landmark,,,,"Road 34 North &, Rd 51 W, MB R0G 1M0",
+65,Lorne,Swan Lake,"49.36700952988533, -98.89857431105882",,,,,,
+66,Lorne,Lions Legion Park,"49.41102865981787, -98.79297215611524",City park,,,,"8 Lorne Ave, Swan Lake, MB R0G 2S0",
+67,Lorne,Swan Lake fountain Monument,"49.41146919101805, -98.7924505888836",Park,5,,,"12 Lorne Ave, Swan Lake, MB R0G 2S0",
+68,Lorne,Swan Lake Arena,"49.40898621222166, -98.79347164855263",Recreation center,3.8,http://www.swanlakearena.com/,12048362886,"6 Centennial Ave, Swan Lake, MB R0G 2S0",
+69,Lorne,L'église catholique de Saint-Lupicin (déconsacrée),"49.45886222186776, -98.47815970149236",Museum,5,,,"Rd 31 N, Saint Lupicin, MB",
+70,Lorne,Lake 7 Resort,"49.46329128317408, -98.94027430978454",Public beach,4.4,,12042080072,"Unnamed Road, 0G0, Bruxelles, MB",
+71,Winnipeg,The Forks,"49.88954784669065, -97.12999855348866",Tourist attraction,4.7,,,"1 Forks Market Rd, Winnipeg MB R3C 4L9",Tourist Area
+72,Winnipeg,Canadian Museum for Human Rights,"49.890680199767445, -97.13194029862446",Museum,4.6,https://humanrights.ca/,18778776037,"85 Israel Asper Way, Winnipeg, MB R3C 0L5",Museum
+73,Winnipeg,The Manitoba Museum,"49.900041690853506, -97.13643963338059",Natural history museum,4.6,http://www.manitobamuseum.ca/,12049562830,"190 Rupert Ave, Winnipeg, MB R3B 0N2",Museum
+74,Winnipeg,Assiniboine Park and Zoo,"49.86838036657657, -97.24060957040702",Zoo,4.5,http://www.assiniboineparkzoo.ca/,12049276000,"2595 Roblin Blvd, Winnipeg, MB R3R 2N7",Park & Zoo
+75,Winnipeg,Legislative Building,"49.8844898065351, -97.14639199208521",Government office,4.7,https://www.gov.mb.ca/legislature,12049455813,"450 Broadway, Winnipeg, MB R3C 0V8",Goverment Building
+76,Winnipeg,Experience the Festival du Voyageur,"49.89297954852126, -97.1196749111194",Festival,4.4,http://www.heho.ca/,12042377692,"233 Provencher Blvd, Winnipeg, MB R2H 0G4",Festival
+77,Winnipeg,Winnipeg Art Gallery,"49.88944133395789, -97.15058908883694",Art museum,4.5,http://wag.ca/,12047866641,"300 Memorial Blvd, Winnipeg, MB R3C 1V1",Art Museum
+78,Winnipeg,Fort Whyte Alive,"49.82051365760505, -97.22491421266719",Park,4.6,https://www.fortwhyte.org/,12049898355,"1961 McCreary Rd, Winnipeg, MB R3P 2K9",Nature Park
+79,Winnipeg,Royal Canadian Mint,"49.85270363721791, -97.05417905840153",Museum,4.6,http://www.mint.ca/store/mint/visit-the-mint/winnipeg-location-8900024,12049841144,"520 Lagimodiere Blvd, Winnipeg, MB R2J 3E7",Mint
+80,Winnipeg,St. Boniface Cathedral,"49.8894017376995, -97.12138406372918",Cathedral,4.6,http://www.cathedralestboniface.ca/contact.php?lang=en,12042337304,"180 Av. de la Cathedrale, Winnipeg, MB R2H 0H7",Cathedral
+81,Winnipeg,Manitoba Children's Museum,"49.88778798158205, -97.1286116921829",Children's museum,4.4,https://childrensmuseum.com/,12049244000,"2 Forks Market Rd, Winnipeg, MB R3C 4X1",Children's Museum
+82,Winnipeg,Manitoba Centennial Centre,"49.8998646265283, -97.13694436057386",Art center,,https://mbccc.ca/,12049561360,"555 Main St Suite 1000, Winnipeg, MB R3B 1C3",Art Center
+83,Winnipeg,Riel House National Historic Site,"49.81934695262319, -97.13615280982981",Historical landmark,4.4,https://pc.gc.ca/riel?utm_source=gmb&utm_medium=riel,12049836757,"330 River Rd, Winnipeg, MB R2M 3Z8",Historical Landmark
+84,Winnipeg,Kildonan Park,"49.94671429972833, -97.10258727427136",Park,4.6,http://www.winnipeg.ca/publicworks/parksandfields/parkbooking/bookableparks/kildonanpark.asp,18773114974,"2015 Main St, Winnipeg, MB R2V 2B9",Park
+85,Winnipeg,Living Prairie Museum & Interpretive Centre,"49.88789186654521, -97.27251735737725",Nature preserve,4.4,http://www.winnipeg.ca/publicworks/parksOpenSpace/livingprairie/,12048320167,"Ness Ave, 2795 Ness Ave, Winnipeg, MB R3J 3S4",Nature Preserve
+86,Winnipeg,Royal Aviation Museum of Western Canada,"49.90121955560342, -97.22527017908969",Museum,4.7,http://royalaviationmuseum.com/,12047865503,"2088 Wellington Ave, Winnipeg, MB R3H 1C1",Museum
+87,Winnipeg,Air Command Headquarters Museum,"49.88996017049454, -97.23660252515992",Museum,4.6,,,"186 Air Force Way, Winnipeg, MB",Museum
+88,Winnipeg,Scotiabank Theatre Winnipeg,"49.887607773151, -97.20003341565287",Movie theater,4.2,https://www.cineplex.com/Theatre/scotiabank-theatre-winnipeg,12047741001,"817 St James St, Winnipeg, MB R3G 3L3",Theater
+89,Winnipeg,Royal Winnipeg Rifles Museum & Archives,"49.890998269089174, -97.17943374410078",Museum,4.4,http://www.rwrmuseum.com/,12047729746,"969 St Matthews Ave, Winnipeg, MB R3G 0J7",Museum
+90,Winnipeg,Fort Garry Horse Museum & Archives,"49.92772808339803, -97.1399861728094",Museum,4.8,http://fortgarryhorse.ca/,12045866298,"551 Machray Ave, Winnipeg, MB R2W 1A8",Museum
+91,Winnipeg,Canada Life Centre,"49.89266892372678, -97.14376689303242",Arena,4.5,https://www.canadalifecentre.ca/,12049877825,"223 Carlton St, Winnipeg, MB R3C 5S6",Arena
+92,Winnipeg,Centennial Concert Hall,"49.89944249294436, -97.13717541119703",Performing arts theater,4.6,http://centennialconcerthall.com/,12049493999,"555 Main Street, Winnipeg, MB R3B 1C3",Concert Hall
+93,Winnipeg,Maison du Gouverneur / Governor's House,"49.899193592912354, -97.12559112775703",Historical landmark,4.4,,12049452753,"Rue St Joseph, Winnipeg, MB R2H 0A5",Historical Landmark
+94,Louise,Crystal City Printing Museum,"49.14522391166347, -98.95058635316043",Museum,5,http://louisemb.com/m/crystal-city/crystal-city-printing-museum,12048732095,"218 Broadway St S, Crystal City, MB R0K 0N0",
+95,Louise,Star Mound Museum,"49.059716149227455, -98.72488558304597",Museum,4,,,"Rd 4 N, MB, R0G 2K0",
+96,Louise,Lessons from the Land Trail ,"49.13698147278266, -99.0397235302831",Tourist attraction,,,,"Clearwater, MB",
+97,Louise,Crystal Creek Skating Trail,"49.142740582496494, -98.9556389403411",Tourist attraction,,,,"124 Crystal Ave, Crystal City, MB R0K 0N0",
+98,Louise,Goudney Reservoir ,"49.207916471961994, -98.94850914123658",Lake,4.5,,,"Pilot Mound, MB",
+99,Louise,Thomas Greenway Cemetery ,"49.15347905470194, -98.95336219946944",Museum,5,,,"Crystal City, MB",
+100,Louise,Harvest Moon Festival ,,,,,,"Clearwater, MB",
+101,Louise,Moundfest ,,,,,,"Pilot Mound, MB",
+102,Louise,The “Old Mound” ,"49.22480643669608, -98.91239379505562",,,,,"Pilot Mound, MB",
+103,Louise,July 1st Canada Day Baseball Tournament ,,,,,,"Clearwater, MB",
+104,Louise,Manitoba WW1 Museum ,"49.23430125498906, -98.7668579609281",Museum,4.8,https://www.facebook.com/groups/mbww1museum,12048252961,"Pilot Mound, MB",
+105,Louise,Prairie Hill MX ,"49.248578382014635, -98.94953037348365",Off-road race track,4.8,https://www.204gmoto.com/prairie-hill-mx,,"Pilot Mound, MB",
+106,Grey,St. Claude Cenotaph,"49.656644320788125, -98.34506888506702",Memorial park,,,,"Tache St, Saint Claude, MB R0G 1Z0",
+107,Grey,Manitoba Dairy Museum,"49.6617565189281, -98.34002232618917",Museum,4.5,,,"3 St, Saint Claude, MB R0G 1Z0",
+108,Grey,St. Claude and Haywood Arena,"49.66217365306918, -98.34029721302228",Sports complex,4.8,,12043792102,"122 3 St, Saint Claude, MB R0G 1Z0",
+109,Grey,Scotswood Links,"49.679067362852706, -98.01634466000955",Public golf course,4.5,https://scotswoodlinks.com/,18886004653,"24084 MB-2, Elm Creek, MB R0G 0N0",
+110,Grey,Elm Creek Skating Rink,"49.67340344777779, -97.99819141074347",Sports complex,3.2,,12044362179,"67 Arena Rd, Elm Creek, MB R0G 0N0",
+111,Grey,Elm Creek Curling Rink,"49.67349978172806, -97.99706819173312",Arena,,,12044362635,"71 Arena Rd, Elm Creek, MB R0G 0N0",
+112,Grey,Elm Creek Ball Diamonds,"49.67353110534044, -97.99529561668892",Park,,,,"Elm Creek, MB R0G 0N0",
+113,Macdonald,Hide n Seek Winnipeg,"49.81188008717738, -97.23212966718293",Indoor playground,4.5,http://hidenseekwinnipeg.com/,12045040577,"305 Fort Whyte Way #100, Oak Bluff, MB R4G 0B1",
+114,Macdonald,Golfzon Winnipeg,"49.80396895746919, -97.2500183740869",Indoor golf course,4.9,https://www.golfzonwpg.ca/,12044876808,"54 S Landing Dr, Oak Bluff, MB R4G 0C4",
+115,Macdonald,Heebie Jeebies,"49.79009028693639, -97.25277086069917",Haunted house,4.5,http://www.heebie-jeebies.ca/,,"Box 70048 Kenaston PO, Winnipeg, MB R3P 0X6",
+116,Macdonald,Oak Bluff Recreation Club,"49.7713222032266, -97.3235798233858",Recreation center,4.2,http://obrc.ca/,14422721073,"101-123 MacDonald Rd 6 E, Oak Bluff, MB R4G 0B2",
+117,Macdonald,Oak Bluff Recreation Baseball Diamonds,"49.77883107555969, -97.33204138445873",Recreation center,5,,,"Oak Bluff, MB R0G 1N0",
+118,Macdonald,Whiskey throttle compound,"49.76258584112565, -97.64674770183802",Off-road race track,5,,12042186582,Manitoba R0G 2P0,
+119,Macdonald,Starbuck Sports Centre,"49.77461907730916, -97.62459169549079",Arena,3.8,http://starbuckrecreation.com/,12047352463,"60 Arena Blvd, Starbuck, MB R0G 2P0",
+120,Macdonald,Bridges Golf Course,"49.76495550754852, -97.58442329887815",Golf club,4.5,http://www.bridgesgolfcourse.com/,12047353000,"10 River Rd, Starbuck, MB R0G 2P0",
+121,Macdonald,Brunkild Memorial Recreation Centre,"49.591251080073974, -97.57678530820986",Recreation center,4.4,,12047362966,"10 305 Pr, Brunkild, MB R0G 0E0",
+122,Macdonald,4 lane - Castle in Corn - Corn Maze,"49.60085343377011, -97.33054682560261",,3,,12047915347,"Provincial Rd 330, Domain, MB R0G 0M0",
+123,Morris,Manitoba Stampede & Exhibition,"49.34876891816176, -97.36105315502891",Rodeo,4.4,http://www.manitobastampede.ca/,12047462552,"350 Main St, Morris, MB R0G 1K0",
+124,Morris,Morris Arena,"49.350638103933925, -97.36130658536499",Arena,4.5,https://www.townofmorris.ca/visiting/recreation-facilities/morris-arena/,12047462832,"380 Stampede Grounds, Morris, MB R0G 1K0",
+125,Morris,Morris MultiPlex,"49.35014148817454, -97.3605081525745",Sports complex,4.4,http://www.townofmorris.ca/morris_multiplex/,18667462832,"380 Stampede Grounds, Morris, MB R0G 1K0",
+126,Morris,Cargill Curling Training Centre,"49.35014148817454, -97.3605081525745",Curling hall,,,12047125842,"380 Stampede Grounds, Morris, MB R0G 1K0",
+127,Morris,Morris swimming pool,"49.35524048625711, -97.35986376148342",Outdoor swimming pool,4.5,,,"221 Boyne Ave E, Morris, MB R0G 1K0",
+128,Morris,Morris Dog Park,"49.35167645874465, -97.35238185109395",Dog park,,,,"Toronto Ave, Morris, MB R0G 1K0",
+129,Morris,Morris Riverview Golf Course,"49.3646593704041, -97.36155689083256",Golf course,4.4,https://riverviewgolf.ca/,12047462027,"1 Riverview Drive, Morris, MB R0G 1K0",
+130,Morris,Riverside Centennial Park,"49.41354454278669, -97.41468789543347",Park,4.2,,,"1 Riverview Dr, Rosenort, MB R0G 1W0",
+131,Morris,Westfield Park,"49.46013203639564, -97.44228194242696",Park,4.7,,,"27 MB-205, Rosenort, MB R0G 1W0",
+132,Morris,Rosenort Arena,"49.460788906048215, -97.4424433554339",Arena,4.5,http://www.rosenortarena.ca/,12047466426,"71 MB-205, Morris, MB R0G 1K0",
+133,Morris,Rosenort Campground,"49.45506933850043, -97.43603054841881",Campground,2.5,,,"5 Rose Ln, Rosenort, MB R0G 1W0",
+134,Morris,Rosenort MX,"49.47533401388335, -97.44442300217302",Off-road race track,5,,12042090671,"Rr1 box 115, Morris, MB R0G 1K0",
+135,Morris,Lea Bank Equestrian Centre,"49.51641837816203, -97.50865497655298",Equestrian facility,5,,12042260746,"Box 352, Rosenort, MB R0G 1W0",
+136,Morris,Union Point United Church Historic Site,"49.524234284183805, -97.22769244323597",Historical landmark,5,http://www.mhs.mb.ca/docs/sites/unionpointunited.shtml,,"Lord Selkirk Hwy, Ste. Agathe, MB R0G 1Y0",
+137,Pembina,Pembina Valley Bible Camp & Retreat,"49.020122082391126, -98.27690502645038",Camp,4.9,http://pembinavalleybiblecamp.com/,12042462008,"MB-201, MB R0G 2T0",
+138,Pembina,Pembina Valley Provincial Park,"49.00857463902149, -98.27395430271392",State park,4.7,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/pembina.html,12042422950,"201 PrRd/Rd. 37 W,Thornhill, MB R0G 2T0",
+139,Pembina,Hy-wire Zipline Adventures,"49.05950732891677, -98.50823333254495",Tourist attraction,4.7,http://hywirezipline.ca/,12042423396,"Rd. 4 N, Manitou, MB R0G 1G0",
+140,Pembina,Manitoba Passion Play,"49.24905113268893, -98.67245388143162",Movie theater,4.8,https://www.passionplay.ca/,,"Unamed Road, La Rivière, MB, R0G 1A0",
+141,Pembina,Holiday Mountain Resort,"49.23739334296271, -98.69404321624648",,,,,"12 Later Way, La Rivière, MB R0G 1A0",
+142,Pembina,La Riviere Camp Ground,"49.2382238087998, -98.6869489673521",Campground,4.5,,,"La Rivière, MB, R0G 1A0",
+143,Pembina,Binney Corner Nature Preserve,"49.2635534451616, -98.59108366886336",Nature preserve,4.6,,,"Rd 50 W, MB, R0G 1G0",
+144,Pembina,Manitou Town and Country Golf Club,"49.23599878858725, -98.54085701677162",Golf club,4.5,,12042422287,"132 MB-3, Manitou, MB R0G 1G0",
+145,Pembina,Nellie's Homes of Manitou (Nellie McClung Heritage Site),"49.23718212225739, -98.54161049519304",Museum,4.8,http://nellieshomes.ca/,12042424241,"55 Main St, Manitou, MB R0G 1G0",
+146,Pembina,Manitou Park,"49.239185677696405, -98.5300385260754",Campground,,https://www.pembina.ca/p/manitou-centennial-park,12042422838,"Edith St, Manitou, MB R0G 1G0",
+147,Pembina,Manitou War Monument,"49.24044477656442, -98.53895602537736",Park,5,,,"304-218 Main St, Manitou, MB R0G 1G0",
+148,Pembina,Manitou Opera House,"49.24099663478852, -98.53772340111495",Performing arts theater,4.8,http://www.manitouoperahouse.com/,12042423160,"325 Main St, Manitou, MB R0G 1G0",
+149,Pembina,Manitou Community Arena,"49.24081959624672, -98.5439063960863",Arena,4.6,,12042422636,"212 Carrie St, Manitou, MB R0G 1G0/ Souris Ave",
+150,Pembina,Manitou Pool,"49.24105033324686, -98.54321011244149",Outdoor swimming pool,,https://pembina.ca/m/manitou-community-pool,,"212 Carrie St, Manitou, MB R0G 1G0/ Souris Ave",
+151,Pembina,Darlingford Memorial Park,"49.20534342753075, -98.38003657116315",Memorial park,5,https://www.facebook.com/DarlingfordMemorialPark,12042422838,"212 Bradburn St, Darlingford, MB R0G 0L0",
+152,Pembina,Darlingford School Heritage Museum,"49.20514619785023, -98.38079801290799",Museum,4.3,,12042462232,"197 Bradburn St, Darlingford, MB R0G 0L0",
+153,Dufferin,Carman Golf and Curling Club,"49.503840228867084, -98.0139255897943",Sports club,,https://www.carmangolfandcurlingclub.com/,,"4 Ave SW, Carman, MB R0G 0J0",
+154,Dufferin,Carman Pool & Campground,"49.50530424457606, -98.01264861734488",Campground,4.3,http://www.carmanmanitoba.ca/,12047453814,"30 Kings Park Rd, Carman, MB R0G 0J0",
+155,Dufferin,Carman Arena,"49.50718007473257, -98.01333299586862",Arena,4.3,,12047452684,"44 Kings Park Rd, Carman, MB R0G 0J0",
+156,Dufferin,Carman Soccer Complex,"49.51139550404196, -98.02382896153934",Gym,4.2,,,"Sexsmith Dr., MB, R0G 0J0",
+157,Dufferin,Carman Museum,"49.50302066183202, -98.01060699799216",Museum,4.5,http://www.dufferinhistoricalmuseum.ca/,12047453597,"20 Kelly Hand Dr, Carman, MB R0G 0J0",
+158,Dufferin,Golden Prairie Arts Council,"49.50846315510782, -98.003657806333",Art gallery,4.6,https://goldenprairieartscouncil.com/,12047456568,"38 Centre Ave W, Carman, MB R0G 0J0",
+159,Dufferin,Carman Memorial Hall,"49.50539820692719, -98.00234004502954",,,,,"12–2nd Avenue SW, Carman",
+160,Dufferin,Stephenfield Provincial Park,"49.522605096259355, -98.29861422731922",State park,4.3,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/stephenfield.html,12049457273,"MB-245, Manitou, MB R0G 1G0",
+161,Dufferin,Stephenfield Lake Dam,"49.52485407375012, -98.28128555111508",Park,4.3,,,"Lake, Stephenfield, MB",
+162,Dufferin,The Rose Of Roseisle,"49.49945726186948, -98.34362513885152",Historical landmark,4,,,"Main Ave., MB, R0G 1V0",
+163,Thompson,Alexander Ridge Park,"49.370614765003694, -98.32925363312395",Park,4.5,,,"Miami, MB R0G 1H0",
+164,Thompson,Miami Golf And Country Club Inc,"49.38146657676182, -98.27689828113829",Golf course,4.4,http://www.golfmiami.ca/,12044352756,"12 5 St, Miami, MB R0G 1H0",
+165,Thompson,Miami Curling Rink,"49.368833593827674, -98.24432691401287",Stadium,4,,12044352343,"766 MB-23, Miami, MB R0G 1H0",
+166,Thompson,Miami Railway Station Museum,"49.369859461262166, -98.2440037042231",Rail museum,4.9,http://www.miamirailwaystationmuseum.com/,,"500 Norton Ave, Miami, MB R0G 1H0",
+167,Thompson,Miami Campground,"49.370145747718986, -98.24009049998755",Campground,4.5,https://centralmbtourism.ca/explore-manitoba/#w2gm-marker-643,12044352457,"33 Broadway St, Miami, MB R0G 1H0",
+168,Thompson,Miami Museum,"49.37173963032147, -98.24465936808582",Museum,3,,,"99 3 St, Miami, MB R0G 1H0",
+169,Thompson,Pumpkin Creek Ski Club,"49.48670343733489, -98.40550300665035",Park,,,,"Unnamed Road, Roseisle, MB R0G 1V0",
+170,Thompson,"Pumpkin Creek ski trails, Roseisle","49.48673243976907, -98.40400367023511",Park,,,,"Unnamed Road, Roseisle, MB R0G 1V0",
+171,Thompson,Birch Ski Area,"49.47018371461463, -98.38353797905921",Ski resort,4.5,,12048283586,"NW 8-6-7W, Roseisle, MB R0G 1V0",
+172,Roland,World's Largest Pumpkin,"49.369170084185676, -97.9483780588271",Tourist attraction,4.6,http://www.rmofroland.com/,12043432061,"Pacific Ave,. MB, R0G 1T0",
+173,Roland,Roland Arena,"49.36576053645249, -97.9412319943925",Arena,4.5,http://rmofroland.com/,12043432061,"36 South Ave, Roland, MB R0G 1T0",
+174,Roland,Roland Campground,"49.36579891364411, -97.94248991355279",Campground,4.5,http://www.rmofroland.com/,12043432061,"26 South Ave, Roland, MB R0G 1T0",
+175,Roland,Roland Memorial Hall,"49.365810679799424, -97.93924874564387",City government office,,https://www.rmofroland.com/rolandmemorialhall.php,12043432061,"45 3 St, Roland, MB R0G 1T0",
+176,Roland,Roland Memory Gardens,"49.36750520342737, -97.93985229198297",Park,3.5,,,"68 3 St, Roland, MB R0G 1T0",
+177,Roland,4-H Museum,"49.367835548555554, -97.9398820246122",Museum,4,http://www.roland4hmuseum.ca/,,"72 3 St, Roland, MB R0G 1T0",
+178,Roland,Roland Golf Club,"49.395567876197, -97.95810203860229",Golf club,4.4,https://rolandgolf.ca/,12043432409,"NE 17-5 4W, Roland, MB R0G 1T0",
+179,Rhineland,Altona Centennial Park Campground,"49.108509398812885, -97.56764244605202",Campground,4.7,https://altona.ca/tourism/recreation-leisure/camping/,12043249005,"Altona, MB R0G 0B1",
+180,Rhineland,Centennial Park,"49.109042503503645, -97.57028894675044",Park,4.6,https://altona.ca/,12043249005,"227 10 Ave NW, Altona, MB R0G 0B1",
+181,Rhineland,Altona Aquatic Centre,"49.10980536166789, -97.56866882144672",Outdoor swimming pool,4.3,https://altona.ca/tourism/recreation-facilities/aquatic-centre/,12043245288,"10 Ave NW, Altona, MB R0G 0B0",
+182,Rhineland,Gallery in the Park,"49.11125472544739, -97.56672818199033",Art gallery,4.9,http://www.galleryinthepark.ca/,12043249610,"245 10 Ave NW, Altona, MB R0G 0B0",
+183,Rhineland,Millennium Exhibition Centre,"49.11118749042378, -97.5654528059404",Recreation center,4.3,https://altona.ca/tourism/recreation-facilities/millennium-exhibition-centre/,12043249005,"227 10 Ave NW, Altona, MB R0G 0B0",
+184,Rhineland,Van Gogh’s ‘Sunflowers’,"49.111139244856304, -97.55254797839089",Cultural landmark,4.1,https://altona.ca/tourism/recreation-leisure/van-goghs-sunflowers/,,"10 Ave NE, Altona, MB R0G 0B1",
+185,Rhineland,Friesen Housebarn Interpretive Centre,"49.072185595557094, -97.48240300118664",Museum,4.5,https://www.neubergthalheritagefoundation.com/,12043244115,"4140 Rd 1 W, Altona, MB R0G 0B0",
+186,Rhineland,Plum Coulee Campground,"49.188791305916226, -97.76549289733583",Campground,4,http://rmofrhineland.com/main.aspx?parentCode=2AA3ECE7-8A1F-4E99-9C65-B239F0847E6B&pageCode=E7192B4F-35DE-4035-8DD9-890E04E7A437#14,12048293419,"Plum Coulee, MB R0G 1R0",
+187,Rhineland,Sunset Beach,"49.18881569716116, -97.76107338053458",Swimming lake,4.3,http://rmofrhineland.com/main.aspx?parentCode=2AA3ECE7-8A1F-4E99-9C65-B239F0847E6B&pageCode=E7192B4F-35DE-4035-8DD9-890E04E7A437#14,12048293419,"Plum Coulee, MB R0G 1R0",
+188,Rhineland,Plum Coulee/District Museum,"49.19021641459551, -97.76171141911705",Museum,4.5,,12048293419,"277 Main Ave, Plum Coulee, MB R0G 1R0",
+189,Rhineland,St. Joseph de la Rivière aux Marais Campground,"49.136940855715046, -97.39002161295812",Campground,3.8,,12047372244,"116 Brias Blvd, Saint Joseph, MB R0G 2C0",
+190,Rhineland,Musée St. Joseph Museum,"49.135447236818386, -97.38817879410857",Museum,4.9,,12047372244,"25 Brais Boulevard, Saint Joseph, MB R0G 2C0",
+191,Morden,Morden Tourism Kiosk,"49.1976853334751, -98.0949371329365",Tourist information center,4,,12048222562,"111 Gilmour St, Morden, MB R6M 1N9",
+192,Morden,Canadian Fossil Discovery Centre,"49.19745710050638, -98.09515562751825",Museum,4.4,http://www.discoverfossils.com/,12048223406,"111 Gilmour St B, Morden, MB R6M 1N9",
+193,Morden,Access Event Centre,"49.197791306491624, -98.09504729491147",Recreation center,4.6,,12048225431,"111-D Gilmour St, Morden, MB R6M 1N9",
+194,Morden,Bruce the Mosasaur,"49.193227598728235, -98.07729906000583",Historical landmark,4.8,http://discoverfossils.com/,12048224434,"Loren Drive, Morden, MB ",
+195,Morden,Minnewasta Golf & Country Club,"49.18707763345783, -98.12957722055684",Golf club,4.4,http://golfminnewasta.com/,12048224992,"19 Buhler Dr, Morden, MB R6M 1A2",
+196,Morden,Lake Minnewasta,"49.18287790284588, -98.13667299496892",Swimming lake,4.2,https://reserve.campgroundbooking.com/lake-minnewasta,12048224991,"100 Colert Rd, Morden, MB R6M 1V3",
+197,Morden,Dog Town,"49.16270231139876, -98.09965387024545",Tourist attraction,4.2,http://bestfriendsdogtown.weebly.com/,12043622212,"Rm of, Rd 11 N, Morden, MB",
+198,Morden,Lions Park,"49.196056073603884, -98.11828736162177",Park,4.2,,12048225431,"900 Gilmour St, Morden, MB R6M 1K3",
+199,Morden,ALH Motor Speedway,"49.20118661912276, -98.18198978416936",Car racing track,4.6,http://alhmotorspeedway.com/,12048224554,"Road 32 North, Morden, MB R6M 1B5",
+200,Winkler,Bethel Heritage Park,"49.178416905043306, -97.93988125403617",Park,4.6,,,"193 6 St, Winkler, MB R6W 1J1",
+201,Winkler,Discovery Nature Sanctuary,"49.19114719685805, -97.91156378086002",Nature preserve,4.7,http://www.discoverynaturesanctuary.ca/,,"Eastview Dr., Winkler, MB ",
+202,Winkler,Winkler Heritage Museum,"49.1908491118603, -97.9301354737392",History museum,4.5,http://winklerheritagesociety.ca/,,"777 Norquay Dr, Winkler, MB R6W 2S2",
+203,Winkler,Winkler Aquatic Centre & Campground,"49.18733156238527, -97.94602681299067",Aquatic centre,4.2,http://www.cityofwinkler.ca/,12043258212,"580 Park St, Winkler, MB R6W 1B2",
+204,Winkler,Meridian Exhibition Centre,"49.18778020689162, -97.94754598134104",Recreation center,4.4,https://www.themec.ca/,12043258333,"1045 Grandeur Ave, Winkler, MB R6W 1G2",
+205,Winkler,Winkler Arts & Culture,"49.186717880844434, -97.94420685934804",Art gallery,4.5,https://winklerarts.com/,,"547 Park St, Winkler, MB R6W 1C5",
+206,Winkler,Lion Fred Rietze Memorial Park,"49.17353413218288, -97.94568962750978",Park,,,,"Linden Dr, Winkler, MB R6W 1Z4",
+207,Winkler,Kinsmen Heritage Park,"49.17400350004067, -97.93333450652395",Park,,,,"Scotia Dr. Winkler, MB R6W 2Y9",
+208,Winkler,Winkler Centennial Golf Course,"49.18244104608934, -97.95698445606848",Golf course,4.2,http://www.winklergolfcourse.com/,12043257582,"400 15th St, Winkler, MB R6W 4B1",
+209,Winkler,Pine Ridge Skate Plaza,"49.1848354922787, -97.9571052559561",Skateboard park,4.7,,,"15th St & Grandeur Ave, Winkler, MB",
+210,Winkler,Winkler Dog Park,"49.1945681671929, -97.94639124124328",Dog park,4.2,,,"Boundary Trail, Winkler, MB",
+211,Winkler,VB's Entertainment Center / King Pinz Pub & Grill,"49.19372468813253, -97.96298305047794",Bowling alley,4.5,http://valleybowlinglanes.ca/,12043257736,"1765 Diamond Dr, Winkler, MB R6W 0L4",
+212,Stanley,Pembina Valley Provincial Park,"49.00857463902149, -98.27395430271392",State park,4.7,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/pembina.html,12042422950,"201 PrRd/Rd. 37 W,Thornhill, MB R0G 2T0",
+213,Stanley,Woodhenge,"49.05221555430047, -98.08497104708094",Tourist attraction,5,https://www.geocaching.com/geocache/GC9P7G5,,"27105 Rd 3.5 N, Thornhill, MB R0G 2T0",
+214,Stanley,Tinker Creek,"49.08786668246033, -98.11545575674607",Hiking area,4.9,,,"Rd. 6 N, MB R0G 2T0",
+215,Stanley,"Tinker Creek, Trans Canada Trail","49.05943725137365, -98.10817952959856",Hiking area,5,,,"MB-201, Thornhill, MB R0G 2T0",
+216,Stanley,Pembina Threshermen's Museum,"49.19157708363146, -98.01483479279543",Museum,4.6,http://www.threshermensmuseum.com/,12043257497,"Hwy #3, Winkler, MB R6W 4B2",
+217,Stanley,Winkler Bible Camp Inc,"49.24137586420226, -97.99884959521377",Recreation center,4.6,https://winklerbiblecamp.com/,12043259519,"16037 MB-3, Winkler, MB R6P 0G9",
+218,Stanley,Burwalde Woods Trails,"49.240223396554434, -98.00292094171347",Ski club,4.9,,,"MB-3, MB R0G 1T0",
+219,Stanley,Meadows Amusements,"49.22605469597375, -97.93504712108016",Amusement park,4.5,http://meadowsamusements.com/,12043258282,"15044 MB-428, Winkler, MB R6W 4A6",
+220,Stanley,Stanley Centennial Park,"49.14758838319051, -98.19522392243621",Park,,,,"32126 Rd 10 N, Thornhill, MB R0G 2T0",
+221,Andrews,Netley Creek Provincial Park,"50.29067051055674, -96.865812572716",Park,,,,"MB-320, Petersfield, MB R0C 2L0",Provincial Park
+222,Andrews,Netley Resorts Ltd,"50.287870914030115, -96.92305523445731",Campground,4.1,,12047382203,"Tom Prince Dr, Petersfield, MB R0C 2L0",Resorts
+223,Andrews,Chesley's Resort & Campground,"50.288664717992575, -96.93084829870682",Campground,4.3,https://www.chesleys.com/,12047382250,"212 Tom Prince Dr, Petersfield, MB R0C 2L0",Campground
+224,Andrews,The Mallard Duck Park,"50.30380149737636, -96.9752661529382",Park,4.6,,,"8950, Provincial Trunk Hwy 9, Petersfield, MB R0C 2L0",Park
+225,Andrews,Petersfield Curling Club,"50.30746173342511, -96.96795148225813",Curling club,4.4,http://www.petersfieldcurlingclub.com/,12047384446,"700 Main St, Petersfield, MB R0C 2L0",Curling Club
+226,Andrews,Netley Creek Golf Course & RV Park,"50.307941980265504, -96.99382660910558",Golf course,4.5,http://www.netleycreekgolf.com/,12047384653,"1753 Fairway Rd, Petersfield, MB R0C 2L0",Golf Course
+227,Andrews,Oak Hammock Marsh Wetland Discovery Centre,"50.17380478893447, -97.13296007348225",Museum,4.7,http://www.oakhammockmarsh.ca/,12044673300,"1 Snow Goose Bay, Stonewall, MB R0C 2Z0",Museum
+228,Dunnottar,Whytewold pier,"50.45736352442601, -96.9507860131391",Park,5,,,"214 MB-232, Whytewold, MB R0C 2B0",Pier
+229,Dunnottar,Village of Dunnottar Public Pier,"50.448837557553475, -96.95075930228552",Park,4.8,,,"Dunnottar, MB R0C 2B0",Pier
+230,Dunnottar,Matlock Beach,"50.443073114504074, -96.9551633002694",Park,4.5,,,"72 Gimli Rd, Matlock, MB R0C 2B0",Beach
+231,Dunnottar,Public pier/ beach area,"50.43249147031259, -96.94992990622265",Park,4.7,,,"Dunnottar, MB R0C 2B0",Beach
+232,Dunnottar,Matlock Lake Access,"50.42933431099171, -96.94633353372375",Fishing pier,4.3,,,"5 Ralph Ave, Sans Souci, MB R0C 2B0",Fishing Area
+233,Rockwood,Norris Lake Provincial Park,"50.482233627653116, -97.4177158991333",State park,4.3,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/norris.html,12045587211,"Inwood, MB R0C 1P0",Park
+234,Rockwood,Teulon Cross Country Ski Club,"50.34431363816202, -97.26331022152873",Sports club,5,http://www.skiteulon.ca/,,"91 Rd N, Gunton, MB R0C 1H0",Ski Club
+235,Teulon,Teulon Golf Club,"50.39701410061524, -97.25156783812966",Public golf course,4.5,https://www.teulongc.com/,12048864653,"94-089 MB-7, Teulon, MB R0C 3B0",Golf Course
+236,Teulon,Teulon Rockwood Green Acres Campground,"50.37790559646953, -97.25851380299925",Campground,5,http://greenacresparkcampground.com/,12048860505,"Main St, Teulon, MB R0C 3B0",Campground
+237,Teulon,Teulon-Rockwood Green Acres Park,"50.381297342098414, -97.25997152928113",Park,4.3,https://www.greenacresparkcampground.com/,12048860505,"8 Ave SE, Teulon, MB R0C 3B0",Park
+238,Teulon,Teulon Museum,"50.38187405177762, -97.25441838828144",Museum,,,,"173 7 Ave SE, Teulon, MB R0C 3B0",Museum
+239,Teulon,Teulon-Rockwood Arena,"50.380749509813306, -97.26273706382833",Arena,3.8,http://www.teulon.ca/p/teulon-rockwood-arena,12048860505,"28 8 Ave SE, Teulon, MB R0C 3B0",Arena
+240,Stonewall,Veterans Memorial Sports Complex,"50.129236286335285, -97.32579987596554",Sports complex,4.3,http://www.stonewalljets.com/,12044677975,"550 Main St, Stonewall, MB R0C 2Z0",Sports Complex
+241,Stonewall,Stonewall Curling Club,"50.12896783623128, -97.32535522209669",Curling club,4.2,https://www.stonewallcurling.com/,12044675542,"500 Main St, Stonewall, MB R0C 2Z0",Curling Rink
+242,Stonewall,Quarry Lanes,"50.13421132560526, -97.32550063727172",Bowling club,4.3,https://quarry-bowling-lanes.business.site/,12044678218,"369 1 St E, Stonewall, MB R0C 2Z0",Bowling Alley
+243,Stonewall,Stonewall Quarry Park,"50.14116856221166, -97.32542064825107",Park,4.5,http://www.stonewallquarrypark.ca/,12044677980,"166 Main St, Stonewall, MB R0C 2Z0",Park
+244,Stonewall,Quarry Park Museum,"50.1411126476688, -97.3257468648507",Museum,5,"http://stonewallquarrypark.ca/main.asp?fxoid=FXMenu,5&cat_ID=4&sub_ID=13",,"166 Main St, Stonewall, MB R0C 2Z0",Museum
+245,Stonewall,Kinsmen Lake,"50.14144557358609, -97.32857923855867",Swimming lake,4.5,"http://stonewallquarrypark.ca/main.asp?fxoid=FXMenu,5&cat_ID=1&sub_ID=17&sub2_ID=9",12044677980,"459 4 Ave N, Stonewall, MB R0C 2Z0",Beach
+246,Woodland,Woodlands Pioneer Museum,"50.20363253186741, -97.65532867490998",Heritage museum,4.3,http://www.woodlandspioneermuseum.com/,,"Woodlands, MB R0C 3H0",Museum
+247,Woodland,Miami Beach,"50.209676619875836, -97.71309947559236",Campground,4.5,https://www.miamibeachcampground.ca/,,"Woodlands, MB R0C 3H0",Beach
+248,Woodland,Warren Sunove Arena,"50.12557175311195, -97.53794624167335",Arena,4,http://www.warrenarena.com/,12043225353,"149 MacDonald Ave, Warren, MB R0C 3E0",Arena
+249,Woodland,Whispering Winds of Warren Golf and Country Club,"50.131964635366394, -97.52596915869816",Country club,4.2,http://www.whisperingwindsofwarren.com/,12043225104,"Rd 3 W, Warren, MB R0C 3E0",Golf Course
+250,Woodland,Rubber Ducky Resort and Campground,"50.13145229804024, -97.49269071434954",Resort,4.2,http://www.rubberduckyresort.com/,12043225286,"1069 Rd 76.5 N, Warren, MB R0C 3E0",Campground
+251,Woodland,Grosse Isle Heritage Site,"50.06585175167987, -97.44473062836556",Museum,,,,"Grosse Isle, MB R0C 1G0",Museum
+252,St. Laurent,OakPoint RV Resort,"50.511659349577805, -98.03756943478491",Campground,4.7,https://oakpointresort.ca/,12048981841,"box 75, Oak Point, MB R0C 2J0",RV Park
+253,St. Laurent,St. Laurent Arena,"50.41270815593207, -97.94342544885534",Arena,3.5,http://www.stlaurentminorhockey.com/,,"464 St Veterans Memorial, Saint Laurent, MB R0C 2S0",Arena
+254,St. Laurent,Meindl Park,"50.33746057554753, -97.96345957785634",Public swimming pool,4.1,,," Twin Lakes Beach, MB",Beach
+255,St. Laurent,Paintball Paradise St. Laurent,"50.42877111613037, -97.87230623241841",Paintball center,4.9,http://www.paintballparadise.com/st-laurent,12043381535,"Stony Ridge Rd, Saint Laurent, MB R0C 2S0",Paintball Center
+256,St. Laurent,Stonyridge Campground,"50.42818967580992, -97.87253277094965",Park,4.8,http://www.stonyridgecampground.com/,12048030777,"Saint Laurent, MB R0C 2S0",Campground
+257,Alonsa,Sandy Bay Arena (Howard Starr Civic Centre),"50.548753604266224, -98.64950204156388",Arena,4.5,http://www.sandybayfirstnation.com/,12048433853,"194 Townsite Bay, Marius, MB R0H 0T0",Arena
+258,Alonsa,Alex Robertson Museum,"50.800729267531544, -98.97333424267043",Museum,,http://www.mhs.mb.ca/docs/sites/alexrobertsonmuseum.shtml,12047672054,"Church Rd S, Alonsa, MB R0H 0A0",Museum
+259,Alonsa,Alonsa Curling Rink,"50.80007210993775, -98.97454993556372",Sports complex,5,,12047672149,"Church Rd S, Alonsa, MB R0H 0A0",Curling Rink
+260,Gimli,Camp Morton Campground,"50.69764751989714, -96.99485732264182",Campground,4.3,http://prspub.gov.mb.ca/,12046427143,"Camp Morton, MB R0C 0M0",Campground
+261,Gimli,Links At the Lake,"50.654828398999555, -96.9878742843206",Golf course,4.1,https://www.lakelandgolfmanagement.com/our-golf-courses/links-at-the-lake,12046428858,"Thompson Dr, Pelican Beach, MB R0C 1B0",Golf Course
+262,Gimli,Skydive Manitoba,"50.63646828205541, -97.04474723521108",Skydiving center,4.9,http://www.skydivemanitoba.com/,12047995867,"177 Anson St, Aspen Park, MB R0C 1B0",Skydiving Center
+263,Gimli,Gimli Aquatic Centre,"50.63328720336574, -96.99927664664123",Outdoor swimming pool,4.1,https://gacpublic.weebly.com/,12046424407,"42 Centennial Rd, Gimli, MB R0C 1B0",Aquatic Center
+264,Gimli,Gimli Recreation Centre,"50.63367779924329, -97.00155022133369",Recreation center,4.3,http://www.gimli.ca/p/recreation-center,12046426670,"45 Centennial Rd, Gimli, MB R0C 1B0",Recreation Center
+265,Gimli,Gimli Pavilion Park,"50.639302140289935, -96.99033052527473",Park,4.3,http://www.gov.mb.ca/chc/hrb/mun/m151.html,,"1 Fourth Ave, Gimli, MB R0C 1B0",Park
+266,Gimli,Gimli Beach,"50.63580333901771, -96.98371401699414",Beach,4.8,,,"Gimli, MB R0C 1B0",Beach
+267,Gimli,Gimli Glider Museum,"50.63241947467151, -96.9852598005643",Museum,4.8,http://gimliglider.org/,12046425577,"10 Centre St, Gimli, MB R0C 1B0",Museum
+268,Gimli,Gimli Theatre,"50.63264996115846, -96.9874124956681",Movie theater,4.6,,12046427460,"72 2 Ave, Gimli, MB R0C 1B0",Theater
+269,Gimli,Gimli Harbour Authority,"50.63200304988536, -96.98510191751562",Marina,4.5,https://gimliharbour.ca/,12046427517,"1 Centre St, Gimli, MB R0C 1B0",Marina
+270,Gimli,Lake Winnipeg Visitor Centre & Tourist Information,"50.63166815803391, -96.98412862067875",Tourist information center,4.3,https://www.travelmanitoba.com/trip-essentials/visitor-information-centres/,12046427974,"1 Centre St #1, Gimli, MB R0C 1B0",Tourist Information
+271,Gimli,New Iceland Heritage Museum,"50.630910111728454, -96.98627852841345",Museum,4.7,https://nihm.ca/,12046424001,"94 1 Ave, Gimli, MB R0C 1B1",Museum
+272,Gimli,Idle Wheels RV Park,"50.565733993463894, -96.9976715631015",Campground,4.3,https://www.facebook.com/idlewheels/,12046425060,"Husavik Rd 106N, Manitoba R0C 1B0",RV Park
+273,Gimli,Sandy Hook Beach,"50.54490389360621, -96.98074750217066",Park,3.6,,,"10 Ave, Sandy Hook, MB R0C",Beach
+274,Gimli,Sandy Hook Golf Club,"50.532007499207076, -96.98944426922431",Public golf course,4.6,https://sandyhookgolf.webs.com/,12043895466,"71 Clubhouse Rd, Sandy Hook, MB R0C 2W0",Golf Course
+275,Gimli,Sandy Hook R.V. Resort,"50.52346261544248, -96.97663091263868",Campground,4.3,http://www.sandyhookrvresort.com/,12043895389,"103014 Pth 9, Sandy Hook, MB R0C 2W0",Resort
+276,Winnipeg Lake,Beach Side Park,"50.51739380054835, -96.97116558677449",Park,4.1,,,"Winnipeg Beach, MB R0C 3G0",Park
+277,Winnipeg Lake,Wildwood Park Trailer Resort,"50.51032527425857, -96.97616057452699",Campground,4.5,,12043893540,"102040 Pth 9, Winnipeg Beach, MB R0C 3G0",RV Park
+278,Winnipeg Lake,Boundary Creek Marina,"50.50772588963578, -96.96651202621808",Marina,4.6,http://www.lakeagassizmarine.com/boundary-creek-marina.html,12043893584,"Gimli, Park Ave, Winnipeg Beach, MB R0C 3G0",Marina
+279,Winnipeg Lake,Winnipeg Beach Dog Beach,"50.49517193617772, -96.96100718244422",Animal park,4.6,,,"Winnipeg Beach, MB",Dog Beach
+280,Winnipeg Lake,Winnipeg Beach Municipal Recreation Centre,"50.495574816793074, -96.96686636216008",Recreation center,4.6,http://winnipegbeach.ca/,12043895126,"32 Hamilton St, Winnipeg Beach, MB R0C 3G0",Arena
+281,Winnipeg Lake,Winnipeg Beach Curling Rink,"50.495741026817875, -96.96645513178909",Curling club,3.8,,12043892661,"26 Hamilton Ave, Winnipeg Beach, MB R0C 3G0",Curling Rink
+282,Winnipeg Lake,Winnipeg Beach Lighthouse,"50.50558294584905, -96.9680530489654",Historical landmark,4.6,https://www.ibiblio.org/lighthouse/mb.htm,,"Winnipeg Beach, MB R0C 3G0",Historical Landmark
+283,Winnipeg Lake,Winnipeg Beach,"50.49753393011379, -96.9645694698513",Beach,,,,"Winnipeg Beach, MB R0C 3G0",Beach
+284,Armstrong,M.P.C. Reunion Park,"50.728576742488094, -97.22698013159152",Park,4.5,,,"Unnamed Road, Meleb, MB R0C 2C0",Park
+285,Armstrong,Inwood Golf & Country Club,"50.51706097093013, -97.50480776323157",Golf club,4.6,http://www.inwoodgolf.net/,12042783536,"hwy 17N, Inwood, MB R0C 1P0",Golf Course
+286,Armstrong,Inwood Arena & Archery Range,"50.50822739311205, -97.49362160757693",Recreation center,5,,12042783455,"44 MB-229, Inwood, MB R0C 1P0",Recreation Center
+287,Armstrong,Narcisse Snake Dens,"50.73460423164851, -97.53034101031565",Nature preserve,4.3,https://www.gov.mb.ca/fish-wildlife/snakes_narcisse/index.html,12049453744,"MB-17, Narcisse, MB R0C 2H0",Nature Preserve
+288,Armstrong,Narcisse Wildlife Management Area,"50.70542892664473, -97.66940142656443",National park,,,,"Narcisse, MB R0C 2H0",Park
+289,Coldwell,Lundar Beach Provincial Park,"50.7235081210524, -98.27373481773951",Park,4.2,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/lundar.html,18666264862,"0 Vincent Rd, Lundar, MB R0C 1Y0",Provincial Park
+290,Coldwell,Lundar Memorial Arena,"50.69589113915322, -98.03907399596635",Arena,4.5,,,"85 Main St, Lundar, MB R0C 1Y0",Arena
+291,Coldwell,Lundar Pool,"50.695699430544686, -98.03837863662416",Gym,4.3,https://www.grettir.ca/sports-pool/lundar-community-swimming-pool,12047625644,"75 Main St, Lundar, MB R0C 1Y0",Pool
+292,West Interlake,Ashern Arena,"51.18536523864571, -98.34865600783499",Arena,,,,"Ashern, MB R0C 0E0",Arena
+293,West Interlake,Ashern Sharptail Park,"51.18401436912283, -98.35077187974407",Park,4.5,https://www.travelmanitoba.com/listings/statue-of-a-sharptail-grouse/6849/,12049277814,"Ashern, MB R0C 0C5",Park
+294,West Interlake,Lake Manitoba Narrows Seasonal Campground,"51.08175762296584, -98.77607773173739",Campground,4.1,,12047818961,"2K0, MB-68, Oakview, MB R0C 2K0",Campground
+295,West Interlake,Chief's Point Beach & Campground,"50.875629273516644, -98.5245687541203",Campground,4,,,Manitoba R0C 3K0,Campground
+296,West Interlake,Eriksdale Creamery Museum,"50.861863811039356, -98.10515674329059",Museum,4.5,https://www.travelmanitoba.com/listings/eriksdale-creamery-museum/950/,12047395322,"Eriksdale, MB R0C 0W0",Museum
+297,Bifrost-Riverton,Hecla Provincial Park,"51.08237677585737, -96.8618534473832",State park,4.8,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/hecla.html,,"Provincial Trunk Highway 8, Lake, Winnipeg, MB",Provincial Park
+298,Bifrost-Riverton,Sandy Bar Fishing Club,"50.98680480393407, -96.93004000731574",Fishing club,,,,"329 Rd, Riverton, MB R0C 2R0",Fishing Club
+299,Bifrost-Riverton,Sandy Bar Beach,"50.9868041264589, -96.93065474110954",Beach,4.5,,12043782367,"329 Rd, Riverton, MB R0C 2R0",Beach
+300,Bifrost-Riverton,Riverton Arena,"50.99543191178982, -96.99962591806106",Arena,4.3,,12043785516,"99 Main St, Riverton, MB R0C 2R0",Arena
+301,Bifrost-Riverton,Riverton Skate Park,"50.99547222516535, -97.00295681626342",Skateboard park,,,,"134 Park Ave SW, Riverton, MB R0C 2R0",Skate Park
+302,Bifrost-Riverton,Hnausa Beach Campground,"50.90005079970779, -96.99383886403407",Campground,5,,12043782946,"Hnausa Beach Provincial Park, Riverton, MB R0C 2R0",Campground
+303,Arborg,The Arborg & District Multicultural Heritage Village,"50.90326860514249, -97.2075781409019",Museum,4.5,http://www.arborgheritagevillage.ca/,12043765079,"MB-68, Arborg, MB R0C 0A0",Museum
+304,Arborg,Arborg & District Arena,"50.910513981059985, -97.2151051012128",Stadium,4,,12043765576,"437 Recreation Centre, Arborg, MB R0C 0A0",Arena
+305,Arborg,Arborg Curling Rink,"50.910462489554924, -97.21602792410758",Community center,4.5,,12043765576,"417 Recreation Centre, Arborg, MB R0C 0A0",Curling Club
+306,Arborg,Noventis Aquatic Centre,"50.91073125721563, -97.21565281953387",Outdoor swimming pool,3.4,https://townofarborg.ca/recreation/aquatic-centre-public-swim,12043765576,"Recreation Centre, Arborg, MB R0C 0A0",Aquatic Center
+307,Arborg,Arborg Kinsmen Campground,"50.9021900556592, -97.23083908991241",Campground,5,,,"Jct Hwy 7 & Hwy, MB-68, Arborg, MB R0C 0A0",Campground
+308,Grahamdale,Agassiz Outfitters,"51.76927082691908, -98.73545551146198",Hunting area,4.4,https://agassizoutfitters.com/?utm_source=organic&utm_medium=gmb-listing&utm_id=google,12042811918,"MB-6, Gypsumville, MB R0C 1J0",Hunting Area
+309,Grahamdale,Roviera Campground,"51.589403305329924, -98.72782562970778",Campground,3.2,https://interlaketourism.com/beaches_lakes_parks/roviera-resort-campground-fairford/,12046595248,"Fairford River Rd & Highway 6, Fairford, MB R0C 0X0",Campground
+310,Grahamdale,Fairford 50,"51.5897671258067, -98.62341384852488",Nature preserve,5,,,Manitoba R0C 0X0,Nature Reserve
+311,Grahamdale,Armand Lemiez Homestead Site,"51.38227283614911, -98.50121328109172",Museum,3.8,http://www.grahamdale.ca/,12047682858,"Unnamed Road, MB R0C 1C0",Museum
+312,Grahamdale,Watchorn Provincial Park,"51.27797793718971, -98.56223024825216",State park,4.4,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/central/watchorn.html,18666264862,"Moosehorn, MB R0C 2E0",Provincial Park
+313,Grahamdale,Moosehorn Heritage Museum,"51.29280360699441, -98.4235181555822",Museum,5,,,"Railway Ave, Moosehorn, MB R0C 2E0",Museum
+314,Churchill,Prince of Wales Fort National Historic Site,"58.79721529750098, -94.21330194374211",Historical landmark,4.7,https://pc.gc.ca/princewalesfort?utm_source=gmb&utm_medium=princewalesfort,12046758863,"Prince of Wales Fort, Churchill, MB R0B 0E0",Historical Landmark
+315,Churchill,Cape Merry,"58.78560068390051, -94.20162936167505",Historical landmark,4.6,,12046758863,"Churchill, MB R0B 0E0",Historical Landmark
+316,Churchill,Custom Churchill Tours,"58.77936168247727, -94.19554183110456",Tour agency,5,http://customchurchilltours.com/,12049632736,"Port Pl, Churchill, MB R0B 0E0",Tour Agency
+317,Churchill,Itsanitaq Museum,"58.77044199360203, -94.1668630110849",Museum,4.7,https://www.travelmanitoba.com/listings/itsanitaq-museum/555/,12046752030,"242 La Vérendrye Ave, Churchill, MB R0B 0E0",Museum
+318,Churchill,Discover Churchill Photo Gallery,"58.76732319188046, -94.168812011903",Art museum,5,http://www.discoverchurchill.com/,14312323211,"280 Kelsey Blvd, Churchill, MB R0B 0E0",Museum
+319,Churchill,Kischikamee adventure inc,"58.768215327963986, -94.16114297000013",Tour operator,5,https://kischikamee.com/,18665156555,"86 Hearne St, Churchill, MB R0B 0E0",Tourist Attraction
+320,Churchill,Miss Piggy plane wreck,"58.76054635366242, -94.08645641571118",Tourist attraction,4.5,https://www.mysteriesofcanada.com/manitoba/curtiss-c-46-commando/,,"Churchill, MB R0B 0E0",Tourist Attraction
+321,Churchill,Aurora Domes,"58.75768760355086, -93.9972380534201",Tourist attraction,4.6,https://auroradomes.ca/,12046758853,"152 Kelsey Blvd, Churchill, MB R0B 0E0",
+322,RM of Grand Rapids,Hobbs Resort,"53.26622061702602, -99.40597167522661",Resort,4.8,,,"Grand Rapids, MB R0C 1E0",Resort
+323,RM of Grand Rapids,Cook Campground and Cabins,"53.260646887300695, -99.41591724492856",Campground,3.9,http://www.cookscampgroundandcabins.com/,12046392014,"Grand Rapids, MB R0C 1E0",Campground
+324,RM of Grand Rapids,Moak Lodge & Camping,"53.27656161971903, -99.40482645074398",Campground,4.8,http://www.moaklodge.ca/Site/Welcome.html,12046392351,"Grand Rapids, MB R0C 1E0",Campground
+325,RM of Grand Rapids,Pine Grove Cabins,"53.17357161252012, -99.26685896969656",Cottage rental,3.6,,12046392331,"79 Grand Rapids Dr, Grand Rapids, MB R0C 1E0",Cottage Rental
+326,RM of Grand Rapids,Grand Rapids Community Complex,"53.180076640993484, -99.26890329187589",Hockey rink,3.6,,12046392401,"Grand Rapids Dr, Grand Rapids, MB R0C 1E0",Arena
+327,RM of Grand Rapids,Grand Rapids Lodge,"53.18453264294799, -99.26536693840373",,,,,"Ferry Rd, Grand Rapids, MB R0C 1E0",Lodge
+328,RM of Grand Rapids,Grand Rapids Provincial Park,"53.14158161930926, -99.2851380381682",Park,,,,"Grand Rapids, MB R0C 1E0",Provincial Park
+329,Snow Lake,Sunset Beach,"54.87323649239818, -100.01756511616267",Park,5,,,"107 Lipsey Dr, Snow Lake, MB R0B 1M0",Beach
+330,Snow Lake,Brentwood Park,"54.878351947668065, -100.01866786495806",Park,3.3,,,"Snow Lake, MB R0B 1M0",Park
+331,Snow Lake,MB Star Attraction Mining Museum,"54.88052578649226, -100.02128787532075",Museum,4.5,https://www.travelmanitoba.com/listings/snow-lake-mining-museum/6960/,12043587867,"163 Poplar Ave, Snow Lake, MB R0B 1M0",Museum
+332,Snow Lake,Wilfred T Lipton Arena,"54.88168588190135, -100.02293357441197",Arena,3,,12043582998,"202 Cherry St, Snow Lake, MB R0B 1M0",Arena
+333,Snow Lake,Wekusko Falls Provincial Park,"54.7923328955953, -99.97243731990037",State park,4.8,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/northwest/wekusko.html,12043582919,"MB-392, Snow Lake, MB R0B 1M0",Provincial Park
+334,Snow Lake,Wekusko Falls,"54.790191313192295, -99.97278847557992",Scenic spot,4.9,,,"Snow Lake, MB R0B 1M0",Waterfall
+335,Snow Lake,Wekusko Falls Lodge,"54.787855777405014, -99.97070081312326",,4.8,http://www.wekuskofallslodge.com/,18773582341,"Snow Lake, MB R0B 1M0",Lodge
+336,Kesley,Cranberry Portage Arena,"54.58316715972195, -101.37388937894643",Stadium,4.3,,12044723555,"Cranberry Portage, MB R0B 0H0",Arena
+337,Kesley,McKenzie's RV Park,"54.58317349438707, -101.38907466600348",Campground,4,http://mckenziesrvpark.ca/,12046870278,"126 MacLean St, Cranberry Portage, MB R0B 0H0",RV Park
+338,Kesley,Cranberry Portage Museum,"54.585756347492286, -101.38222500295304",Museum,4.7,https://cpmuseum.ca/,,"102 Railway Ave, Cranberry Portage, MB R0B 0H0",Museum
+339,Kesley,Aseneskak Casino,"53.838210675905685, -101.26868886850146",Casino,4.2,,12046272250,"MB-10, Opaskwayak, MB R0B 2J0",Casino
+340,Kesley,Gordon Lathlin Memorial Centre,"53.83252790021153, -101.25908249155312",Arena,4.1,,12046277070,Gordon Lathlin Memorial Centre,Arena
+341,The Pas,Devon Park East,"53.83062387862603, -101.25123265410447",City park,4.7,,,"The Pas, MB R0B 2J0",Park
+342,The Pas,Camper's Cove Beach,"53.974553580014415, -101.16792199222887",Beach,4.6,,,"Cottage Cove Road, Manitoba R0B 1T0",Beach
+343,The Pas,Evergreen Resort,"53.98501440218956, -101.18147967386248",Resort,4.6,https://evergreenlodgeandresort.com/,12046245750,"50 Fischer Ave, The Pas, MB R0B 1T0",Resort
+344,Flin Flon,Flinty's Trail and Boardwalk,"54.76893763585529, -101.857782098967",Hiking area,4.6,https://www.cityofflinflon.ca/t/tourism/flinty-s-boardwalk,12046817542,"Flinty Boardwalk, Flin Flon, MB R8A 0T3",Hiking Trail
+345,Mystery Lake,Paint Lake Provincial Park,"55.49131533068285, -98.02361439004497",State park,4.6,https://www.gov.mb.ca/sd/parks/park-maps-and-locations/northeast/paint.html,12046776653,"59 Elizabeth Drive, Thompson, MB R8N 1X4",Provincial Park
+346,Mystery Lake,Paint Lake Lodge,"55.49187137820406, -98.02735372100344",Marina,4.7,http://paintlake.ca/,12046779303,"Lot 1, Hwy 375, Paint Lake, MB R8N 1N1",Marina
+347,Thompson,Mystery Mountain Winter Park,"55.871049267000785, -97.7771655076001",Sports,4.3,https://www.mysterymountain.ca/,12047788624,"BOX 246, Thompson, MB R0B 1E0",Ski Hills
+348,Thompson,Thompson Golf Club,"55.77431152727131, -97.82977468798866",Public golf course,4,http://www.thompsongolfclub.com/,12047785537,"1Moak, Lake Rd, Thompson, MB",Golf Course
+349,Thompson,Thompson Lions Park,"55.75073989289367, -97.84500934387317",Playground,4.5,,,"Thompson, MB R8N 1T2",Park
+350,Thompson,C.A. Nesbitt Arena,"55.74942175992178, -97.86544056517971",Arena,4.1,http://www.thompson.ca/,,"Thompson, MB R8N 0C4",Arena
+351,Thompson,Burntwood Curling Club,"55.75028742380563, -97.86531476358162",Curling club,4.6,https://www.burntwoodcurlingclub.ca/,12046772580,"294 Thompson Dr, Thompson, MB R8N 0C4",Curling Club
+352,Thompson,The Miner Monument,"55.72599625067856, -97.8663295575523",Historical landmark,4.5,,,"108 Severn Crescent, Thompson, MB R8N 1M9",Historical Landmark
+353,Gillam,Town of Gillam - Gillam Recreation,"56.348519767641044, -94.70275682927",Community center,4.6,http://www.townofgillam.com/p/recreation,12046526982,"235 Mattonnabee Ave, Gillam, MB R0B 0L0",Recreation Center
+354,Gillam,Snowmobilers of Manitoba: Snoman Inc. Trail,"56.35092801373744, -94.70656772330516",Off-road race track,,,,"12 Gillam Dr, Gillam, MB R0B 0L0",Snowmobile Trail
+355,Town of Lynn Lake,Northbound Adventure Tours Inc,"56.85179878654238, -101.04754345929571",Tourist information center,,,12043562500,"499 Sherritt Ave, Lynn Lake, MB R0B 0W0",Tourist Information
+356,Dominion City,Franklin Museum,"49.14001863251884, -97.15561273452255",Museum,4,,12044272557,"42 Centennial Dr, Dominion City, MB R0A 0H0, Canada",Museum
+357,Dominion City,Roseau City Park,"48.8360284004783, -95.75031332225626",Park,4.6,https://www.city.roseau.mn.us/parksrecreation,,"Roseau, MN 56751, United States",Park
+358,Dominion City,Calderwood's Country Store,"49.14238998149699, -97.1533075097323",Supermarket,4,http://familyfoods.ca/store-locator/,12044273250,"119 Waddell Ave, Dominion City, MB R0A 0H0, Canada",Supermarket
+359,Dominion City,Kyle Memorial Golf Course,"49.13740553651049, -97.15932571598096",Public golf course,4.7,http://kmgc.weebly.com/,12044272376,"164 Johnston Ave, Dominion City, MB R0A 0H0, Canada",Public golf course
+360,Dominion City,Dominion City Arena,"49.14198118907005, -97.15953817136683",Arena,4,,12044272577,"152 WADDELL AVE W, Dominion City, MB R0A 0H0, Canada",Arena
+361,Dominion City,Dominion City Curling Club,"49.142174707181375, -97.15747354086855",Club,4.7,,12044272626,"143 Waddell Ave, Dominion City, MB R0A 0H0, Canada",Club
+362,Dominion City,Roseau Valley School,"49.14113179020473, -97.16532889792516",School,4.5,http://www.roseauvalleyschool.ca/,12044272143,"190 Franklin Ave, Dominion City, MB R0A 0H0, Canada",School
+363,Emerson,Emerson Baptist Church,"49.00502078470289, -97.20847973499595",Baptist church,5,https://sites.google.com/view/%20emersonbaptistchurch,12043732158,"45 Third St, Emerson, MB R0A 0L0, Canada",Baptist church
+364,Emerson,Town of Emerson Office,"49.00562006628249, -97.21442443499157",City government office,3.8,http://www.emersonfranklin.com/,12043732002,"104 Church St, Emerson, MB R0A 0L0, Canada",City government office
+365,Emerson,Fort Dufferin,"49.03051657597351, -97.20189499565173",Tourist attraction,4.6,,,"Emerson, MB R0A 0L0, Canada",Tourist attraction
+366,Emerson,Emerson Old Anglican Cemetery,"49.00613437610191, -97.18861208332373",Cemetery,4.3,,,"Roseau St, Emerson, MB R0A 0L0, Canada",Cemetery
+367,Emerson,Emerson Golf Course,"49.00856572928721, -97.20034973963652",Golf course,4.4,https://emerson-golf-course.business.site/,12043732015,"5 South Ave, Emerson, MB R0A 0L0, Canada",Golf course
+368,Emerson,Emerson Centennial Park,"49.0027391187055, -97.21736996373805",Park,5,http://www.emersonfranklin.com/main.aspx?CategoryCode=BE0B3259-5572-4DEA-9D08-6072C1F49D90&pageCode=F2BAE2E2-1CAF-475E-BF50-E9F3E63ADC24,,"119 Dennis St, Emerson, MB R0A 0L0, Canada",Park
+369,Emerson,"Prairie Oak Campground, MB","49.0193581977985, -97.21147883489161",Campground,4.2,http://www.prairieoakcampground.com/,12043041445,"405 Manchester Ave, Emerson, MB R0A 0L0, Canada",
+370,Emerson,Emerson Centennial Park,"49.00274339704513, -97.21737217408412",Park,5,http://www.emersonfranklin.com/main.aspx?CategoryCode=BE0B3259-5572-4DEA-9D08-6072C1F49D90&pageCode=F2BAE2E2-1CAF-475E-BF50-E9F3E63ADC24,,"119 Dennis St, Emerson, MB R0A 0L0, Canada",
+371,Emerson,Emerson Pool,"49.003056629006586, -97.21778797297779",Swimming pool,4.5,,12043732002,"145 Dennis St, Emerson, MB R0A 0L0, Canada",
+372,Emerson,Crow Wing Trail - Emerson Community Park Access Point,"49.00281565959359, -97.2191141302762",Hiking area,5,http://crowwingtrail.ca/trail-adventure-step-1/,,"Emerson, MB R0A 0L0, Canada",
+373,Emerson,Guardian - Emerson Pharmacy,"49.005584307690626, -97.21525953796582",Pharmacy,4.5,https://www.guardian-ida-remedysrx.ca/en/manitoba/emerson/emerson-pharmacy-7018678?utm_source=google&utm_medium=maps&utm_campaign=local_presence,12043732746,"21 Main St, Emerson, MB R0A 0L0, Canada",
+374,Emerson,Emerson Bigway,"49.00656622028809, -97.21324852270817",Supermarket,4.3,,12043732732,"15 Winnipeg St, Emerson, MB R0A 0L0, Canada",
+375,Emerson,Emerson Duty Free Shop,"49.00110048004503, -97.23968784558583",Duty free store,4.5,http://emersondutyfree.com/,12043732600,"Hwy I, 29, Emerson, MB R0A 0L0, Canada",
+376,Emerson,Chaplaincy of the Sacred Heart of Jesus,"49.009191327490164, -97.2073277539568",Catholic church,5,https://www.archsaintboniface.ca/parish_info.html?lang=en&p=124,12043732286,"Fourth St, Emerson, MB R0A 0L0, Canada",
+377,Emerson,St. Andrews United Church,"49.00818052230529, -97.20834432517945",Church,5,,,"121 Park St, Emerson, MB R0A 0L0, Canada",
+378,Emerson,Emerson Skating Rink,"49.00447281772505, -97.21544089959515",Ice skating rink,4.3,https://m.facebook.com/pages/category/Ice-Skating-Rink/Emerson-Skating-Rink-267204400008867/,12043732177,"31 Main St, Emerson, MB R0A 0L0, Canada",
+379,Emerson,Emerson Complex,"49.006004759223586, -97.21455572741563",Community center,3.5,https://www.emersonfranklin.com/p/community-halls,12043732863,"101 Church St, Emerson, MB R0A 0L0, Canada",
+380,Emerson,Emerson New Horizons Club,"49.005676823934834, -97.21298752323524",Event venue,4.2,https://www.emersonfranklin.com/p/community-halls,12043732090,"106 Church St, Emerson, MB R0A 0L0, Canada",
+381,Emerson,Fort Daer Historic Log Cabins,"49.00535024084579, -97.23374199148647",Historical landmark,5,,,"Emerson, MB R0A 0L0, Canada",
+382,Green Ridge,Greenridge Cemetery,"49.14650177792013, -97.01008311070872",Cemetery,,,,,
+383,Roseau River,Roseau River Park,"49.17681541741228, -96.82417668666228",Community center,4.3,,,"1P0, Provincial Trunk Hwy 59, Roseau River, MB R0A 1P0, Canada",
+384,Roseau River,Country Relax'n,"49.193455151923054, -96.82170855156319",Lodging,4.8,http://bedandbreakfast.mb.ca/properties/country-relaxn-bb/,12044272296,"28029 13N Rd Roseau River, MB, Canada",
+385,Roseau River,Roseau River Big RV Resort,"49.19149988664917, -96.847253879882",Campground,3.8,http://www.roseauriverbigrvresort.ca/,12044273402,"27002 N13, Roseau River, MB R0A 1P0, Canada",
+386,Roseau River,Paradise Road Bakery,"49.18646319108021, -96.82269811626949",Bakery,5,,12044273883,"Manitoba R0A 1P0, Canada",
+387,Roseau River,Roseau River Big RV Resort,"49.191535395459596, -96.84724842393457",Campground,3.8,http://www.roseauriverbigrvresort.ca/,12044273402,"27002 N13, Roseau River, MB R0A 1P0, Canada",
+388,Roseau River,Roseau River Bible Camp,"49.190593850207435, -96.87519225295217",Camp,4.6,http://www.roseauriver.ca/,12044272445,"Road 12N, Driveway Marker 25159, Roseau River, MB R0A 1P0, Canada",
+389,Roseau River,Swinging bridge,"49.19306353277379, -96.89382131419453",Hiking area,4.5,,12044272922,"13079 B 345, Saint Malo, MB R0A 1T0, Canada",
+390,Roseau River,Crow Wing Trail - Senkiw Bridge Trail Access Point,"49.19667264465725, -96.88699614445142",Hiking area,4.7,http://crowwingtrail.ca/trail-adventure-step-1/,,"Roseau River, MB R0A 1P0, Canada",
+391,Roseau River,Roseau River Swinging Bridge-South Trail Head,"49.196835109437025, -96.88703018777036",Hiking area,4.8,,,"Unnamed Road, Roseau River, MB R0A 1P0, Canada",
+392,Roseau River,Oroseau,"49.199662162139084, -96.91145042726322",Campground,4.9,http://www.oroseau.ca/,12044272922,"Saint Malo, MB R0A 1T0, Canada",
+393,Tolstoi,Tolstoi Heritage Centre,"49.07748773845566, -96.80883892783385",Museum,5,https://tolstoiheritage.ca/,,"9 Main St, Tolstoi, MB R0A 2E0, Canada",
+394,Tolstoi,Tolstoi & District Seniors Centre Inc.,"49.07631211830987, -96.80777000011689",Club,5,,12044272572,"18 Main St, Tolstoi, MB R0A 2E0, Canada",
+395,Tolstoi,Supermarket,"49.07789137059422, -96.80884964412887",Convenience store,5,,,"25-7 Provincial Trunk Hwy 59, Tolstoi, MB R0A 2E0, Canada",
+396,Tolstoi,Canada Border Services Agency - Tolstoi Port of Entry,"49.000368866933506, -96.8026821866509",Border crossing station,3.3,http://www.cbsa-asfc.gc.ca/do-rb/offices-bureaux/592-eng.html,18004619999,"P.O. Box 126 2E0, Tolstoi, MB, Canada",
+397,Tolstoi,Welcome to Manitoba Sign,"49.000672783700644, -96.80321846292479",Tourist attraction,,,,"252W+7P, Tolstoi, MB R0A 2E0, Canada",
+398,Woodmore,J. Creek Grain & Berries,"49.13197787195242, -96.91394590854753",Farm,5,,12043244661,"Box 6, 24036 9N, Woodmore, MB R0A 2M0, Canada",
+399,Woodmore,Canada Post,"49.133400631130314, -96.89084576472267",Mailing service,,https://www.canadapost.ca/,,"Hwy 201, Woodmore, MB R0A 2M0, Canada",
+400,Woodmore,CAN-AM COUNTRY CORNER,"49.1361502020127, -96.80922062075545",Gas shop,4.7,https://canamcountrycorner.business.site/?utm_source=gmb&utm_medium=referral,12044272442,"9030 E 29, Stuartburn, MB R0A 2B0, Canada",
+401,Woodmore,Sunset Oaks Family RV Park,"49.133202434734265, -96.8172512707241",Campground,4.8,http://www.sunsetoaksfamilyrvpark.com/,12044273272,"28098 Rd 9N, Roseau River, MB R0A 1P0, Canada",
