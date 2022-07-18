@@ -3,7 +3,7 @@ var styleAoi = {
     weight: 1,
     color: "#fff",
     opacity: 1,
-    fillColor: "#6baed6",
+    fillColor: "#fe9929",
     fillOpacity: 1
 }
 

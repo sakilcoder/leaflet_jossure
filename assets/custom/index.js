@@ -24,19 +24,19 @@ var aoiLayer = L.geoJSON(manitoba, {
 var markers = L.layerGroup();
 
 var map = L.map('map', {
-    center: [49.59140881901119, -98.19305419921876],
-    zoom: 9,
-    layers: [googleTerrain, aoiLayer, markers] // default checked layers
+    center: [50.59140881901119, -98.19305419921876],
+    zoom: 8,
+    layers: [basemapCarto, aoiLayer, markers] // default checked layers
 });
 
-// map.options.minZoom = 14;
+map.options.minZoom = 5;
 // map.fitBounds(aoiLayer.getBounds());
 
 var baseLayers = {
+    'Carto': basemapCarto,
     'Google': googleTerrain,
     'OSM': OpenStreetMap_Mapnik,
     'Satellite': Esri_WorldImagery,
-    'Carto': basemapCarto,
 };
 
 
@@ -61,6 +61,10 @@ fetchText(csvUrl).then(text => {
                 "muin_city": pois[i].muin_city,
                 "attraction_site": pois[i].attraction_site,
                 "coordinates": pois[i].coordinates,
+                "category": pois[i].category,
+                "review": pois[i].review,
+                "website": pois[i].website,
+                "phone": pois[i].phone,
                 "address": pois[i].address,
                 "description": pois[i].description
             },
@@ -88,23 +92,9 @@ var overlays = {
 var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 
 L.easyButton('fa-home fa-lg', function () {
-    map.setView([49.59140881901119, -98.19305419921876], 9);
+    map.setView([50.59140881901119, -98.19305419921876], 8);
     // map.fitBounds(aoiLayer.getBounds());
 }).addTo(map);
-
-let infoView = 1;
-var infoPanel = document.getElementById("info");
-L.easyButton('fa-navicon fa-lg', function () {
-    if (infoView == 1) {
-        infoView = 0;
-        infoPanel.style.display = "none";
-    } else {
-        infoView = 1;
-        infoPanel.style.display = "block";
-    }
-}).setPosition('topright');
-
-// infoPanel.addTo(map);
 
 let polylineMeasure = L.control.polylineMeasure ({position:'topleft', unit:'kilometres', showBearings:true, clearMeasurementsOnStop: false, showClearControl: true, showUnitControl: true});
 polylineMeasure.addTo (map);
@@ -112,6 +102,28 @@ polylineMeasure.addTo (map);
 document.getElementsByClassName( 'leaflet-control-attribution' )[0].style.display = 'none';
 
 L.Control.geocoder().addTo(map);
+
+// ---------------------------------
+var popup_info = L.control({ position: 'topright' });
+popup_info.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'info-panle');
+    this.update();
+    return this._div;
+};
+
+popup_info.update = function (html) {
+    if (html == null)
+        html = '';
+    this._div.innerHTML = html;
+};
+
+popup_info.addTo(map);
+
+let infoView = 0;
+var infoPanel = document.getElementsByClassName("info-panle")[0];
+
+// -------------------------
+
 
 // var layerControl = L.control.layers(baseLayers, overlays).addTo(map);
 // var crownHill = L.marker([39.75, -105.09]).bindPopup('This is Crown Hill Park.');
