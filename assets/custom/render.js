@@ -54,8 +54,14 @@ function onEachAoi(feature, layer) {
 }
 function onEachMarker(feature, layer) {
 
+    var icon = getIcon(feature.properties.category);
+    var icon1 = icon[0];
+    var icon2 = icon[1];
+    var popup_icon=icon[2];
+    layer.setIcon(icon1);
+
     let str_popup = '';
-    str_popup += '<h5 class="text-center" style="font-weight: bold">'+ feature.properties.attraction_site +'</h5>';
+    str_popup += '<h5 class="text-center" style="font-weight: bold">'+ feature.properties.attraction_site +' ('+ popup_icon +') </h5>';
     str_popup += '<h5 class="text-center">'+ feature.properties.category + ' (' + feature.properties.review + ' <i class="material-icons" style="font-size:12px;color:orange">star_rate</i>)</h5>';
     str_popup += '<table style="width: 100%">';
     str_popup += '<tr><td class="text-center">Phone: +' + feature.properties.phone + ' Website: <a href="'+ feature.properties.website +'" target="_blank" title="'+ feature.properties.website +'">Click Here</a></td></tr>';
@@ -66,10 +72,7 @@ function onEachMarker(feature, layer) {
     // popup.setContent(str_popup);
     // layer.bindPopup(popup, popupOptions);
 
-    var icon = getIcon(feature.properties.category);
-    var icon1 = icon[0];
-    var icon2 = icon[1];
-    layer.setIcon(icon1);
+    
 
 
     layer.on('click', function(e) {
@@ -145,7 +148,7 @@ var getIcon = function (type) {
 
     var icon1 = GoogleIcon('<span class="g-icon">' + gi + '</span>');
     var icon2 = GoogleIcon('<span class="g-icon">' + gi2 + '</span>');
-    return [icon1, icon2];
+    return [icon1, icon2, gi];
 }
 
 
