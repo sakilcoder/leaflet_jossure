@@ -29,26 +29,26 @@ function onEachAoi(feature, layer) {
         // var popup = e.target.getPopup();
         // popup.setLatLng(e.latlng).openOn(map);
 
-        this.setStyle({
-            'weight': 2,
-            'color': "#fff",
-            'opacity': 1,
-            'fillColor': '#dd1c77',
-            'fillOpacity': 0
-        });
+        // this.setStyle({
+        //     'weight': 2,
+        //     'color': "#fff",
+        //     'opacity': 1,
+        //     'fillColor': '#dd1c77',
+        //     'fillOpacity': 0
+        // });
     });
 
     layer.on('mouseout', function (e) {
         // e.target.closePopup();
         // console.log('out-aoi');
 
-        this.setStyle({
-            'weight': 1,
-            'color': "#fff",
-            'opacity': 1,
-            'fillColor': '#fe9929',
-            'fillOpacity': 1
-        });
+        // this.setStyle({
+        //     'weight': 1,
+        //     'color': "#fff",
+        //     'opacity': 1,
+        //     'fillColor': '#F7CCAC',
+        //     'fillOpacity': .8
+        // });
     });
 
 }
@@ -104,45 +104,49 @@ var getIcon = function (type) {
     let gi = '';
     let gi2 = '';
 
-    if(type=='Amusement park' || type=='City park' || type=='Dog park' || type=='Park' || type=='State park' || type=='Nature preserve' || type=='Recreation center' || type=='Water park'){
+    if(type=='Amusement park' || type=='City park' || type=='Dog park' || type=='Park' || type=='State park' || type=='Nature preserve' || type=='Recreation center' || type=='Water park' || type=='Skateboard park'){
         gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #34A853">park</i>';
         gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #34A853">park</i>';
 
-    }else if(type=='Museum' || type=='History museum' || type=='Rail museum' ){
-        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #39B5CB">museum</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #39B5CB">museum</i>';
+    }else if(type=='Museum' || type=='History museum' || type=='Rail museum' || type=='Haunted house' || type=='Historical landmark'){
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #B25068">museum</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #B25068">museum</i>';
 
-    }else if(type=='Arena' || type=='Bowling alley' || type=='Hockey rink'|| type=='Ice skating rink' || type=='Playground' || type=='Shooting range' || type=='Softball field' || type=='Sports complex' || type=='Stadium'){
-        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #34A853">sports</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #34A853">sports</i>';
+    }else if(type=='Arena' || type=='Bowling alley' || type=='Hockey rink'|| type=='Ice skating rink' || type=='Playground' || type=='Shooting range' || type=='Softball field' || type=='Sports complex' || type=='Stadium' || type=='Sports'){
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #4D77FF">sports</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #4D77FF">sports</i>';
+
+    }else if(type=='Campground' || type=='Camp'){
+        gi = '<i class="fas fa-campground g-icon-i" style="font-size:12px; color: #E45826"></i>';
+        gi2 = '<i class="fas fa-campground g-icon-i" style="font-size:14px; color: #E45826"></i>';
+
+    }else if(type=='Art gallery' || type=='Performing arts theater'){
+        gi = '<i class="fas fa-palette g-icon-i" style="font-size:12px; color: #BD4291"></i>';
+        gi2 = '<i class="fas fa-palette g-icon-i" style="font-size:14px; color: #BD4291"></i>';
 
     }else if(type=='Movie theater'){
-        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #34A853">local_movies</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #34A853">local_movies</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #D18CE0">local_movies</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #D18CE0">local_movies</i>';
 
     }else if(type=='Disc golf course' || type=='Golf club' || type=='Golf course'){
-        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #34A853">golf_course</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #34A853">golf_course</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #F473B9">golf_course</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #F473B9">golf_course</i>';
 
     }else if(type=='Tourist attraction'){
         gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #34A853">add_a_photo</i>';
         gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #34A853">add_a_photo</i>';
 
     }else if(type=='Hiking area'){
-        gi = '<i class="fas fa-hiking g-icon-i" style="font-size:16px; color: #34A853"></i>';
-        gi2 = '<i class="fas fa-hiking g-icon-i" style="font-size:18px; color: #34A853"></i>';
+        gi = '<i class="fas fa-hiking g-icon-i" style="font-size:16px; color: #139487"></i>';
+        gi2 = '<i class="fas fa-hiking g-icon-i" style="font-size:18px; color: #139487"></i>';
 
-    }else if(type=='Haunted house' || type=='Historical landmark'){
-        gi = '<i class="fas fa-landmark g-icon-i" style="font-size:16px; color: #34A853"></i>';
-        gi2 = '<i class="fas fa-landmark g-icon-i" style="font-size:18px; color: #34A853"></i>';
-
-    }else if(type=='Resort'){
-        gi = '<i class="fa fa-hotel g-icon-i" style="font-size:16px; color: #34A853"></i>';
-        gi2 = '<i class="fa fa-hotel g-icon-i" style="font-size:18px; color: #34A853"></i>';
+    }else if(type=='Resort' || type=='Ski resort'){
+        gi = '<i class="fa fa-hotel g-icon-i" style="font-size:16px; color: #890F0D"></i>';
+        gi2 = '<i class="fa fa-hotel g-icon-i" style="font-size:18px; color: #890F0D"></i>';
 
     }else{
-        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #f768a1">place</i>';
-        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #f768a1">place</i>';
+        gi = '<i class="material-icons g-icon-i" style="font-size:16px; color: #4CACBC">place</i>';
+        gi2 = '<i class="material-icons g-icon-i" style="font-size:18px; color: #4CACBC">place</i>';
     }
 
 

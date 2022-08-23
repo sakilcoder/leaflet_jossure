@@ -1,10 +1,10 @@
 
 var styleAoi = {
     weight: 1,
-    color: "#fff",
+    color: "#FF10F0",
     opacity: 1,
-    fillColor: "#fe9929",
-    fillOpacity: 1
+    fillColor: "#F7CCAC",
+    fillOpacity: 0
 }
 
 let GoogleIcon = function (html) {
